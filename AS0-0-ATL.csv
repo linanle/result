@@ -1,4 +1,4 @@
 ﻿IP地址,端口,回源端口,TLS,数据中心,地区,国家,城市,TCP延迟(ms),速度(MB/s)
-35.196.72.166,443,443,true,ATL,North America,US,Atlanta,265,6.41
-24.96.156.178,443,443,true,ATL,North America,US,Atlanta,260,1.42
-24.96.156.180,443,443,true,ATL,North America,US,Atlanta,253,0.10
+35.196.72.166,443,443,true,ATL,North America,US,Atlanta,250,1.44
+24.96.156.183,443,443,true,ATL,North America,US,Atlanta,257,0.70
+23.94.95.60,8443,443,true,ATL,North America,US,Atlanta,250,0.07
