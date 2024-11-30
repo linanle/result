@@ -1,12 +1,31 @@
 ﻿IP地址,端口,回源端口,TLS,数据中心,地区,国家,城市,TCP延迟(ms),速度(MB/s)
-75.2.54.210,443,443,true,IAD,North America,US,Ashburn,3,3.25
-4.255.56.138,443,443,true,IAD,North America,US,Ashburn,1,2.15
-13.59.154.117,443,443,true,IAD,North America,US,Ashburn,0,1.69
-20.246.127.166,443,443,true,IAD,North America,US,Ashburn,3,1.48
-40.79.73.114,8443,443,true,IAD,North America,US,Ashburn,1,1.31
-40.123.41.147,8443,443,true,IAD,North America,US,Ashburn,1,1.22
-18.218.157.223,443,443,true,IAD,North America,US,Ashburn,1,1.11
-43.130.99.209,443,443,true,ORF,North America,US,Norfolk,1,0.94
-107.175.245.68,50242,443,true,IAD,North America,US,Ashburn,2,0.52
-34.194.76.43,443,443,true,IAD,North America,US,Ashburn,1,0.40
-137.116.91.147,8443,443,true,IAD,North America,US,Ashburn,1,0.31
+129.158.225.185,443,443,true,IAD,North America,US,Ashburn,225,7.67
+141.148.244.45,443,443,true,FRA,Europe,DE,Frankfurt,261,6.63
+109.234.34.136,443,443,true,AMS,Europe,NL,Amsterdam,213,6.14
+150.136.18.220,443,443,true,IAD,North America,US,Ashburn,260,6.02
+129.80.68.253,443,443,true,IAD,North America,US,Ashburn,261,5.91
+79.76.122.222,443,443,true,FRA,Europe,DE,Frankfurt,212,5.26
+150.136.191.251,443,443,true,IAD,North America,US,Ashburn,223,5.21
+18.222.145.58,443,443,true,CMH,North America,US,Columbus,266,5.14
+132.226.54.64,443,443,true,IAD,North America,US,Ashburn,224,5.10
+3.127.15.79,443,443,true,FRA,Europe,DE,Frankfurt,247,5.06
+34.194.76.43,443,443,true,IAD,North America,US,Ashburn,230,5.02
+193.122.180.199,443,443,true,IAD,North America,US,Ashburn,265,4.54
+141.147.72.41,443,443,true,FRA,Europe,DE,Frankfurt,285,4.44
+107.175.222.33,8443,443,true,IAD,North America,US,Ashburn,256,4.26
+129.213.136.180,443,443,true,IAD,North America,US,Ashburn,264,3.92
+3.13.196.41,443,443,true,IAD,North America,US,Ashburn,252,3.84
+18.235.208.126,443,443,true,IAD,North America,US,Ashburn,254,3.42
+132.145.14.239,443,443,true,FRA,Europe,DE,Frankfurt,244,3.08
+47.89.151.17,443,443,true,IAD,North America,US,Ashburn,251,2.85
+107.175.245.68,50242,443,true,IAD,North America,US,Ashburn,235,1.52
+129.159.84.71,443,443,true,IAD,North America,US,Ashburn,264,0.55
+4.255.56.138,443,443,true,IAD,North America,US,Ashburn,275,0.09
+35.71.133.137,443,443,true,IAD,North America,US,Ashburn,132,0.05
+75.2.54.210,443,443,true,IAD,North America,US,Ashburn,120,0.05
+4.152.146.110,443,443,true,IAD,North America,US,Ashburn,283,0.02
+20.185.45.204,443,443,true,IAD,North America,US,Ashburn,263,0.01
+20.127.201.36,443,443,true,IAD,North America,US,Ashburn,284,0.01
+104.46.111.142,8443,443,true,IAD,North America,US,Ashburn,277,0.01
+40.79.73.114,8443,443,true,IAD,North America,US,Ashburn,291,0.00
+20.246.127.166,443,443,true,IAD,North America,US,Ashburn,299,0.00
