@@ -1,0 +1,8 @@
+﻿IP地址,端口,回源端口,TLS,数据中心,地区,国家,城市,TCP延迟(ms),速度(MB/s)
+34.127.108.54,443,443,true,SEA_1-☯为您千千万万遍☯优选,North America,US,Seattle,188,5.50
+54.200.244.93,443,443,true,PDX_2-☯为您千千万万遍☯优选,North America,US,Portland,209,4.22
+35.247.124.181,443,443,true,SEA_3-☯为您千千万万遍☯优选,North America,US,Seattle,198,1.37
+107.174.247.25,54021,443,true,SEA_4-☯为您千千万万遍☯优选,North America,US,Seattle,247,0.25
+34.19.103.48,443,443,true,SEA_5-☯为您千千万万遍☯优选,North America,US,Seattle,171,0.22
+35.230.79.26,443,443,true,SEA_6-☯为您千千万万遍☯优选,North America,US,Seattle,291,0.15
+34.82.76.253,443,443,true,SEA_7-☯为您千千万万遍☯优选,North America,US,Seattle,287,0.10
