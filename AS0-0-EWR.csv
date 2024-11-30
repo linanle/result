@@ -1,5 +1,5 @@
 ﻿IP地址,端口,回源端口,TLS,数据中心,地区,国家,城市,TCP延迟(ms),速度(MB/s)
-217.196.106.121,443,443,true,EWR,North America,US,Newark,239,7.71
-45.79.168.17,443,443,true,EWR,North America,US,Newark,228,6.43
-23.95.235.137,443,443,true,BUF,North America,US,Buffalo,259,5.54
-47.21.145.234,443,443,true,EWR,North America,US,Newark,288,2.70
+217.196.106.121,443,443,true,EWR,North America,US_1-☯为您千千万万遍☯优选,Newark,239,7.71
+45.79.168.17,443,443,true,EWR,North America,US_2-☯为您千千万万遍☯优选,Newark,228,6.43
+23.95.235.137,443,443,true,BUF,North America,US_3-☯为您千千万万遍☯优选,Buffalo,259,5.54
+47.21.145.234,443,443,true,EWR,North America,US_4-☯为您千千万万遍☯优选,Newark,288,2.70

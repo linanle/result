@@ -1,11 +1,11 @@
 ﻿IP地址,端口,回源端口,TLS,数据中心,地区,国家,城市,TCP延迟(ms),速度(MB/s)
-155.248.178.58,80,443,true,NRT,Asia Pacific,JP,Tokyo,100,12.61
-60.205.0.210,80,80,false,NRT,Asia Pacific,JP,Tokyo,43,6.60
-8.140.56.136,80,80,false,NRT,Asia Pacific,JP,Tokyo,36,6.53
-150.230.103.17,2086,443,true,NRT,Asia Pacific,JP,Tokyo,218,5.37
-207.148.105.247,443,443,true,NRT,Asia Pacific,JP,Tokyo,271,4.28
-47.91.18.127,443,443,true,NRT,Asia Pacific,JP,Tokyo,109,2.12
-103.20.199.88,30002,80,false,NRT,Asia Pacific,JP,Tokyo,272,0.06
-45.159.48.192,12212,443,true,NRT,Asia Pacific,JP,Tokyo,114,0.03
-103.20.199.196,8882,443,true,NRT,Asia Pacific,JP,Tokyo,105,0.01
-54.65.107.240,443,443,true,NRT,Asia Pacific,JP,Tokyo,116,0.00
+155.248.178.58,80,443,true,NRT,Asia Pacific,JP_1-☯为您千千万万遍☯优选,Tokyo,100,12.61
+60.205.0.210,80,80,false,NRT,Asia Pacific,JP_2-☯为您千千万万遍☯优选,Tokyo,43,6.60
+8.140.56.136,80,80,false,NRT,Asia Pacific,JP_3-☯为您千千万万遍☯优选,Tokyo,36,6.53
+150.230.103.17,2086,443,true,NRT,Asia Pacific,JP_4-☯为您千千万万遍☯优选,Tokyo,218,5.37
+207.148.105.247,443,443,true,NRT,Asia Pacific,JP_5-☯为您千千万万遍☯优选,Tokyo,271,4.28
+47.91.18.127,443,443,true,NRT,Asia Pacific,JP_6-☯为您千千万万遍☯优选,Tokyo,109,2.12
+103.20.199.88,30002,80,false,NRT,Asia Pacific,JP_7-☯为您千千万万遍☯优选,Tokyo,272,0.06
+45.159.48.192,12212,443,true,NRT,Asia Pacific,JP_8-☯为您千千万万遍☯优选,Tokyo,114,0.03
+103.20.199.196,8882,443,true,NRT,Asia Pacific,JP_9-☯为您千千万万遍☯优选,Tokyo,105,0.01
+54.65.107.240,443,443,true,NRT,Asia Pacific,JP_10-☯为您千千万万遍☯优选,Tokyo,116,0.00

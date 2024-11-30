@@ -1,31 +1,31 @@
 ﻿IP地址,端口,回源端口,TLS,数据中心,地区,国家,城市,TCP延迟(ms),速度(MB/s)
-129.158.225.185,443,443,true,IAD,North America,US,Ashburn,225,7.67
-141.148.244.45,443,443,true,FRA,Europe,DE,Frankfurt,261,6.63
-109.234.34.136,443,443,true,AMS,Europe,NL,Amsterdam,213,6.14
-150.136.18.220,443,443,true,IAD,North America,US,Ashburn,260,6.02
-129.80.68.253,443,443,true,IAD,North America,US,Ashburn,261,5.91
-79.76.122.222,443,443,true,FRA,Europe,DE,Frankfurt,212,5.26
-150.136.191.251,443,443,true,IAD,North America,US,Ashburn,223,5.21
-18.222.145.58,443,443,true,CMH,North America,US,Columbus,266,5.14
-132.226.54.64,443,443,true,IAD,North America,US,Ashburn,224,5.10
-3.127.15.79,443,443,true,FRA,Europe,DE,Frankfurt,247,5.06
-34.194.76.43,443,443,true,IAD,North America,US,Ashburn,230,5.02
-193.122.180.199,443,443,true,IAD,North America,US,Ashburn,265,4.54
-141.147.72.41,443,443,true,FRA,Europe,DE,Frankfurt,285,4.44
-107.175.222.33,8443,443,true,IAD,North America,US,Ashburn,256,4.26
-129.213.136.180,443,443,true,IAD,North America,US,Ashburn,264,3.92
-3.13.196.41,443,443,true,IAD,North America,US,Ashburn,252,3.84
-18.235.208.126,443,443,true,IAD,North America,US,Ashburn,254,3.42
-132.145.14.239,443,443,true,FRA,Europe,DE,Frankfurt,244,3.08
-47.89.151.17,443,443,true,IAD,North America,US,Ashburn,251,2.85
-107.175.245.68,50242,443,true,IAD,North America,US,Ashburn,235,1.52
-129.159.84.71,443,443,true,IAD,North America,US,Ashburn,264,0.55
-4.255.56.138,443,443,true,IAD,North America,US,Ashburn,275,0.09
-35.71.133.137,443,443,true,IAD,North America,US,Ashburn,132,0.05
-75.2.54.210,443,443,true,IAD,North America,US,Ashburn,120,0.05
-4.152.146.110,443,443,true,IAD,North America,US,Ashburn,283,0.02
-20.185.45.204,443,443,true,IAD,North America,US,Ashburn,263,0.01
-20.127.201.36,443,443,true,IAD,North America,US,Ashburn,284,0.01
-104.46.111.142,8443,443,true,IAD,North America,US,Ashburn,277,0.01
-40.79.73.114,8443,443,true,IAD,North America,US,Ashburn,291,0.00
-20.246.127.166,443,443,true,IAD,North America,US,Ashburn,299,0.00
+129.158.225.185,443,443,true,IAD,North America,US_1-☯为您千千万万遍☯优选,Ashburn,225,7.67
+141.148.244.45,443,443,true,FRA,Europe,DE_2-☯为您千千万万遍☯优选,Frankfurt,261,6.63
+109.234.34.136,443,443,true,AMS,Europe,NL_3-☯为您千千万万遍☯优选,Amsterdam,213,6.14
+150.136.18.220,443,443,true,IAD,North America,US_4-☯为您千千万万遍☯优选,Ashburn,260,6.02
+129.80.68.253,443,443,true,IAD,North America,US_5-☯为您千千万万遍☯优选,Ashburn,261,5.91
+79.76.122.222,443,443,true,FRA,Europe,DE_6-☯为您千千万万遍☯优选,Frankfurt,212,5.26
+150.136.191.251,443,443,true,IAD,North America,US_7-☯为您千千万万遍☯优选,Ashburn,223,5.21
+18.222.145.58,443,443,true,CMH,North America,US_8-☯为您千千万万遍☯优选,Columbus,266,5.14
+132.226.54.64,443,443,true,IAD,North America,US_9-☯为您千千万万遍☯优选,Ashburn,224,5.10
+3.127.15.79,443,443,true,FRA,Europe,DE_10-☯为您千千万万遍☯优选,Frankfurt,247,5.06
+34.194.76.43,443,443,true,IAD,North America,US_11-☯为您千千万万遍☯优选,Ashburn,230,5.02
+193.122.180.199,443,443,true,IAD,North America,US_12-☯为您千千万万遍☯优选,Ashburn,265,4.54
+141.147.72.41,443,443,true,FRA,Europe,DE_13-☯为您千千万万遍☯优选,Frankfurt,285,4.44
+107.175.222.33,8443,443,true,IAD,North America,US_14-☯为您千千万万遍☯优选,Ashburn,256,4.26
+129.213.136.180,443,443,true,IAD,North America,US_15-☯为您千千万万遍☯优选,Ashburn,264,3.92
+3.13.196.41,443,443,true,IAD,North America,US_16-☯为您千千万万遍☯优选,Ashburn,252,3.84
+18.235.208.126,443,443,true,IAD,North America,US_17-☯为您千千万万遍☯优选,Ashburn,254,3.42
+132.145.14.239,443,443,true,FRA,Europe,DE_18-☯为您千千万万遍☯优选,Frankfurt,244,3.08
+47.89.151.17,443,443,true,IAD,North America,US_19-☯为您千千万万遍☯优选,Ashburn,251,2.85
+107.175.245.68,50242,443,true,IAD,North America,US_20-☯为您千千万万遍☯优选,Ashburn,235,1.52
+129.159.84.71,443,443,true,IAD,North America,US_21-☯为您千千万万遍☯优选,Ashburn,264,0.55
+4.255.56.138,443,443,true,IAD,North America,US_22-☯为您千千万万遍☯优选,Ashburn,275,0.09
+35.71.133.137,443,443,true,IAD,North America,US_23-☯为您千千万万遍☯优选,Ashburn,132,0.05
+75.2.54.210,443,443,true,IAD,North America,US_24-☯为您千千万万遍☯优选,Ashburn,120,0.05
+4.152.146.110,443,443,true,IAD,North America,US_25-☯为您千千万万遍☯优选,Ashburn,283,0.02
+20.185.45.204,443,443,true,IAD,North America,US_26-☯为您千千万万遍☯优选,Ashburn,263,0.01
+20.127.201.36,443,443,true,IAD,North America,US_27-☯为您千千万万遍☯优选,Ashburn,284,0.01
+104.46.111.142,8443,443,true,IAD,North America,US_28-☯为您千千万万遍☯优选,Ashburn,277,0.01
+40.79.73.114,8443,443,true,IAD,North America,US_29-☯为您千千万万遍☯优选,Ashburn,291,0.00
+20.246.127.166,443,443,true,IAD,North America,US_30-☯为您千千万万遍☯优选,Ashburn,299,0.00
