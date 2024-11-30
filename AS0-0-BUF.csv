@@ -1,5 +1,5 @@
 ﻿IP地址,端口,回源端口,TLS,数据中心,地区,国家,城市,TCP延迟(ms),速度(MB/s)
-108.174.61.161,59581,443,true,YYZ,North America,CA_1-☯为您千千万万遍☯优选,Toronto,263,3.67
-107.172.62.49,25956,443,true,BUF,North America,US_2-☯为您千千万万遍☯优选,Buffalo,268,3.50
-172.245.107.99,45203,443,true,YYZ,North America,CA_3-☯为您千千万万遍☯优选,Toronto,237,0.14
-107.173.251.119,443,443,true,YYZ,North America,CA_4-☯为您千千万万遍☯优选,Toronto,264,0.06
+108.174.61.161,59581,443,true,YYZ_1-☯为您千千万万遍☯优选,North America,CA_1-☯为您千千万万遍☯优选,Toronto,263,3.67
+107.172.62.49,25956,443,true,BUF_2-☯为您千千万万遍☯优选,North America,US_2-☯为您千千万万遍☯优选,Buffalo,268,3.50
+172.245.107.99,45203,443,true,YYZ_3-☯为您千千万万遍☯优选,North America,CA_3-☯为您千千万万遍☯优选,Toronto,237,0.14
+107.173.251.119,443,443,true,YYZ_4-☯为您千千万万遍☯优选,North America,CA_4-☯为您千千万万遍☯优选,Toronto,264,0.06
