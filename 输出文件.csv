@@ -1,3 +1,0 @@
-﻿IP地址,端口,回源端口,TLS,数据中心,地区,新值,城市,TCP延迟(ms),速度(MB/s)
-24.96.156.183,443,443,true,ATL,North America,新值,Atlanta,237,1.03
-23.94.95.60,8443,443,true,ATL,North America,新值,Atlanta,251,0.11
