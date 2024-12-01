@@ -1,6 +1,6 @@
 ﻿IP地址,端口,回源端口,TLS,数据中心,地区,国家,城市,TCP延迟(ms),速度(MB/s)
-40.79.73.114,8443,443,true,IAD,North America,US,Ashburn,275,4.62
-137.116.91.147,8443,443,true,IAD,North America,US,Ashburn,286,4.51
-3.15.147.151,2083,443,true,CMH,North America,US,Columbus,223,4.36
-172.177.248.69,8443,443,true,IAD,North America,US,Ashburn,261,3.19
-107.175.245.68,50242,443,true,IAD,North America,US,Ashburn,269,1.53
+40.79.73.114,8443,443,true,IAD_1_☯为您千千万万遍☯优选,North America,US,Ashburn,275,4.62
+137.116.91.147,8443,443,true,IAD_2_☯为您千千万万遍☯优选,North America,US,Ashburn,286,4.51
+3.15.147.151,2083,443,true,CMH_3_☯为您千千万万遍☯优选,North America,US,Columbus,223,4.36
+172.177.248.69,8443,443,true,IAD_4_☯为您千千万万遍☯优选,North America,US,Ashburn,261,3.19
+107.175.245.68,50242,443,true,IAD_5_☯为您千千万万遍☯优选,North America,US,Ashburn,269,1.53

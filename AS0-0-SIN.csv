@@ -1,14 +1,14 @@
 ﻿IP地址,端口,回源端口,TLS,数据中心,地区,国家,城市,TCP延迟(ms),速度(MB/s)
-13.212.108.130,8443,443,true,SIN,Asia Pacific,SG,Singapore,73,21.48
-158.178.235.24,8443,443,true,SIN,Asia Pacific,SG,Singapore,76,21.20
-38.207.132.192,21167,443,true,SIN,Asia Pacific,SG,Singapore,97,15.20
-20.198.241.32,8443,443,true,SIN,Asia Pacific,SG,Singapore,79,14.69
-52.187.95.20,2053,443,true,SIN,Asia Pacific,SG,Singapore,81,14.11
-13.250.60.132,443,443,true,SIN,Asia Pacific,SG,Singapore,92,13.88
-20.198.241.32,2053,443,true,SIN,Asia Pacific,SG,Singapore,74,10.68
-52.187.95.20,8443,443,true,SIN,Asia Pacific,SG,Singapore,123,5.27
-8.213.197.132,8443,443,true,SIN,Asia Pacific,SG,Singapore,111,4.04
-158.178.237.115,8443,443,true,SIN,Asia Pacific,SG,Singapore,232,3.75
-47.236.79.131,8443,443,true,SIN,Asia Pacific,SG,Singapore,225,3.53
-154.12.61.163,36863,443,true,SIN,Asia Pacific,SG,Singapore,47,0.51
-47.236.181.185,8443,443,true,SIN,Asia Pacific,SG,Singapore,220,0.49
+13.212.108.130,8443,443,true,SIN_1_☯为您千千万万遍☯优选,Asia Pacific,SG,Singapore,73,21.48
+158.178.235.24,8443,443,true,SIN_2_☯为您千千万万遍☯优选,Asia Pacific,SG,Singapore,76,21.20
+38.207.132.192,21167,443,true,SIN_3_☯为您千千万万遍☯优选,Asia Pacific,SG,Singapore,97,15.20
+20.198.241.32,8443,443,true,SIN_4_☯为您千千万万遍☯优选,Asia Pacific,SG,Singapore,79,14.69
+52.187.95.20,2053,443,true,SIN_5_☯为您千千万万遍☯优选,Asia Pacific,SG,Singapore,81,14.11
+13.250.60.132,443,443,true,SIN_6_☯为您千千万万遍☯优选,Asia Pacific,SG,Singapore,92,13.88
+20.198.241.32,2053,443,true,SIN_7_☯为您千千万万遍☯优选,Asia Pacific,SG,Singapore,74,10.68
+52.187.95.20,8443,443,true,SIN_8_☯为您千千万万遍☯优选,Asia Pacific,SG,Singapore,123,5.27
+8.213.197.132,8443,443,true,SIN_9_☯为您千千万万遍☯优选,Asia Pacific,SG,Singapore,111,4.04
+158.178.237.115,8443,443,true,SIN_10_☯为您千千万万遍☯优选,Asia Pacific,SG,Singapore,232,3.75
+47.236.79.131,8443,443,true,SIN_11_☯为您千千万万遍☯优选,Asia Pacific,SG,Singapore,225,3.53
+154.12.61.163,36863,443,true,SIN_12_☯为您千千万万遍☯优选,Asia Pacific,SG,Singapore,47,0.51
+47.236.181.185,8443,443,true,SIN_13_☯为您千千万万遍☯优选,Asia Pacific,SG,Singapore,220,0.49
