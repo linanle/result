@@ -1,7 +1,6 @@
 ﻿IP地址,端口,回源端口,TLS,数据中心,地区,国家,城市,TCP延迟(ms),速度(MB/s)
-172.245.10.114,8128,80,false,BUF_1_☯为您千千万万遍☯优选,North America,US,Buffalo,264,6.26
-108.174.61.161,38712,443,true,BUF_2_☯为您千千万万遍☯优选,North America,US,Buffalo,262,5.50
-107.175.35.20,27661,443,true,BUF_3_☯为您千千万万遍☯优选,North America,US,Buffalo,265,5.43
-107.172.132.165,43333,443,true,BUF_4_☯为您千千万万遍☯优选,North America,US,Buffalo,209,5.16
-107.172.62.49,25956,443,true,YYZ_5_☯为您千千万万遍☯优选,North America,CA,Toronto,264,4.93
-107.172.63.101,34237,2096,true,YYZ_6_☯为您千千万万遍☯优选,North America,CA,Toronto,262,4.33
+192.3.155.52,41244,443,true,YYZ_1_☯为您千千万万遍☯优选,North America,CA,Toronto,258,5.20
+107.172.132.165,43333,443,true,YYZ_2_☯为您千千万万遍☯优选,North America,CA,Toronto,231,5.09
+107.175.35.20,27661,443,true,YYZ_3_☯为您千千万万遍☯优选,North America,CA,Toronto,274,4.18
+198.12.123.64,443,443,true,BUF_4_☯为您千千万万遍☯优选,North America,US,Buffalo,0,4.18
+108.174.61.161,38712,443,true,YYZ_5_☯为您千千万万遍☯优选,North America,CA,Toronto,231,3.98

@@ -1,9 +1,8 @@
 ﻿IP地址,端口,回源端口,TLS,数据中心,地区,国家,城市,TCP延迟(ms),速度(MB/s)
-107.172.62.49,27014,443,true,EWR_1-☯为您千千万万遍☯优选,North America,US,Newark,242,3.18
-69.28.83.244,443,443,true,YYZ_2-☯为您千千万万遍☯优选,North America,CA,Toronto,239,2.20
-140.238.158.238,443,443,true,YYZ_3-☯为您千千万万遍☯优选,North America,CA,Toronto,246,1.52
-107.173.251.119,443,443,true,YYZ_4-☯为您千千万万遍☯优选,North America,CA,Toronto,269,1.37
-69.28.82.253,443,443,true,YYZ_5-☯为您千千万万遍☯优选,North America,CA,Toronto,231,0.84
-207.61.86.114,443,443,true,YYZ_6-☯为您千千万万遍☯优选,North America,CA,Toronto,263,0.18
-140.238.158.238,8080,443,true,YYZ_7-☯为您千千万万遍☯优选,North America,CA,Toronto,247,0.10
-79.133.183.150,443,443,true,IAD_8-☯为您千千万万遍☯优选,North America,US,Ashburn,270,0.02
+108.174.61.161,59581,443,true,BUF_1_☯为您千千万万遍☯优选,North America,US,Buffalo,264,5.81
+107.172.62.49,40722,443,true,YYZ_2_☯为您千千万万遍☯优选,North America,CA,Toronto,254,5.63
+107.175.206.114,55333,443,true,BUF_3_☯为您千千万万遍☯优选,North America,US,Buffalo,233,4.23
+107.175.35.20,52290,443,true,EWR_4_☯为您千千万万遍☯优选,North America,US,Newark,235,4.08
+107.172.62.49,25956,443,true,BUF_5_☯为您千千万万遍☯优选,North America,US,Buffalo,230,4.03
+23.95.235.137,443,443,true,BUF_6_☯为您千千万万遍☯优选,North America,US,Buffalo,1,4.01
+172.245.10.114,8128,80,false,BUF_7_☯为您千千万万遍☯优选,North America,US,Buffalo,265,3.02
