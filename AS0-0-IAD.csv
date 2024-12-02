@@ -1,12 +1,18 @@
 ﻿IP地址,端口,回源端口,TLS,数据中心,地区,国家,城市,TCP延迟(ms),速度(MB/s)
-35.71.133.137,443,443,true,IAD_1_☯为您千千万万遍☯优选,North America,US,Ashburn,3,6.75
-3.125.223.162,2087,443,true,FRA_2_☯为您千千万万遍☯优选,Europe,DE,Frankfurt,240,6.60
-107.175.222.33,8443,443,true,IAD_3_☯为您千千万万遍☯优选,North America,US,Ashburn,262,5.56
-3.15.147.151,2083,443,true,IAD_4_☯为您千千万万遍☯优选,North America,US,Ashburn,274,4.71
-75.2.54.210,443,443,true,IAD_5_☯为您千千万万遍☯优选,North America,US,Ashburn,0,3.23
-172.191.74.198,8080,80,false,IAD_6_☯为您千千万万遍☯优选,North America,US,Ashburn,259,2.77
-141.147.16.90,443,443,true,FRA_7_☯为您千千万万遍☯优选,Europe,DE,Frankfurt,2,2.63
-129.159.251.228,443,443,true,FRA_8_☯为您千千万万遍☯优选,Europe,DE,Frankfurt,3,2.02
-130.162.208.1,443,443,true,FRA_9_☯为您千千万万遍☯优选,Europe,DE,Frankfurt,1,2.01
-89.168.107.65,443,443,true,FRA_10_☯为您千千万万遍☯优选,Europe,DE,Frankfurt,2,2.00
-107.175.245.68,50242,443,true,IAD_11_☯为您千千万万遍☯优选,North America,US,Ashburn,249,1.22
+3.15.147.151,2083,443,true,IAD,North America,US,Ashburn,252,5.15
+107.175.222.33,8443,443,true,IAD,North America,US,Ashburn,258,4.63
+172.174.249.255,443,443,true,IAD,North America,US,Ashburn,4,3.08
+75.2.54.210,443,443,true,IAD,North America,US,Ashburn,0,2.69
+47.89.151.17,443,443,true,IAD,North America,US,Ashburn,0,2.32
+35.71.133.137,443,443,true,IAD,North America,US,Ashburn,1,1.87
+107.175.245.68,50242,443,true,IAD,North America,US,Ashburn,257,1.66
+130.162.164.112,443,443,true,FRA,Europe,DE,Frankfurt,6,1.62
+143.47.249.137,443,443,true,FRA,Europe,DE,Frankfurt,1,1.58
+141.147.71.75,443,443,true,FRA,Europe,DE,Frankfurt,2,1.52
+164.92.165.141,443,443,true,FRA,Europe,DE,Frankfurt,2,1.46
+141.147.79.201,443,443,true,FRA,Europe,DE,Frankfurt,2,1.40
+141.144.199.40,443,443,true,FRA,Europe,DE,Frankfurt,2,1.33
+20.127.201.36,443,443,true,IAD,North America,US,Ashburn,1,1.31
+8.219.79.88,443,443,true,IAD,North America,US,Ashburn,1,1.24
+47.245.123.134,443,443,true,IAD,North America,US,Ashburn,0,1.23
+20.36.131.211,443,443,true,IAD,North America,US,Ashburn,0,1.21

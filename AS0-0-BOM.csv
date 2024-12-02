@@ -1,12 +1,12 @@
 ﻿IP地址,端口,回源端口,TLS,数据中心,地区,国家,城市,TCP延迟(ms),速度(MB/s)
-20.46.151.138,2083,443,true,BOM_1_☯为您千千万万遍☯优选,Asia Pacific,IN,Mumbai,181,9.68
-20.173.66.64,2053,443,true,BOM_2_☯为您千千万万遍☯优选,Asia Pacific,IN,Mumbai,212,9.56
-20.233.68.69,2053,443,true,BOM_3_☯为您千千万万遍☯优选,Asia Pacific,IN,Mumbai,161,8.62
-35.200.202.118,443,443,true,BOM_4_☯为您千千万万遍☯优选,Asia Pacific,IN,Mumbai,1,3.65
-98.70.26.236,443,443,true,BOM_5_☯为您千千万万遍☯优选,Asia Pacific,IN,Mumbai,0,3.43
-35.200.154.186,443,443,true,BOM_6_☯为您千千万万遍☯优选,Asia Pacific,IN,Mumbai,1,2.01
-141.148.203.6,443,443,true,BOM_7_☯为您千千万万遍☯优选,Asia Pacific,IN,Mumbai,0,1.76
-3.111.217.79,8443,443,true,BOM_8_☯为您千千万万遍☯优选,Asia Pacific,IN,Mumbai,300,1.08
-43.204.208.173,80,80,false,BOM_9_☯为您千千万万遍☯优选,Asia Pacific,IN,Mumbai,0,0.53
-65.2.54.159,8443,443,true,BOM_10_☯为您千千万万遍☯优选,Asia Pacific,IN,Mumbai,288,0.34
-129.154.254.254,8443,443,true,BOM_11_☯为您千千万万遍☯优选,Asia Pacific,IN,Mumbai,364,0.06
+20.46.151.138,2083,443,true,BOM_1_☯为您千千万万遍☯优选,Asia Pacific,IN,Mumbai,174,10.68
+20.235.105.146,443,443,true,BOM_2_☯为您千千万万遍☯优选,Asia Pacific,IN,Mumbai,137,10.29
+20.173.66.64,2053,443,true,BOM_3_☯为您千千万万遍☯优选,Asia Pacific,IN,Mumbai,170,7.93
+35.200.202.118,443,443,true,BOM_4_☯为您千千万万遍☯优选,Asia Pacific,IN,Mumbai,0,5.00
+20.233.68.69,2053,443,true,BOM_5_☯为您千千万万遍☯优选,Asia Pacific,IN,Mumbai,173,4.16
+98.70.26.236,443,443,true,BOM_6_☯为您千千万万遍☯优选,Asia Pacific,IN,Mumbai,1,4.03
+43.204.208.173,80,80,false,BOM_7_☯为您千千万万遍☯优选,Asia Pacific,IN,Mumbai,0,1.70
+35.200.154.186,443,443,true,BOM_8_☯为您千千万万遍☯优选,Asia Pacific,IN,Mumbai,1,1.41
+35.200.238.235,443,443,true,BOM_9_☯为您千千万万遍☯优选,Asia Pacific,IN,Mumbai,1,0.67
+13.201.171.159,2053,443,true,BOM_10_☯为您千千万万遍☯优选,Asia Pacific,IN,Mumbai,287,0.36
+129.154.254.254,8443,443,true,BOM_11_☯为您千千万万遍☯优选,Asia Pacific,IN,Mumbai,342,0.25
