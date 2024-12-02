@@ -1,6 +1,0 @@
-﻿IP地址,端口,回源端口,TLS,数据中心,地区,国家,城市,TCP延迟(ms),速度(MB/s)
-15.157.59.78,2053,443,true,YUL_1_☯为您千千万万遍☯优选,North America,CA,Montréal,246,7.12
-15.222.245.142,2053,443,true,YUL_2_☯为您千千万万遍☯优选,North America,CA,Montréal,242,5.83
-15.157.59.78,8443,443,true,YUL_3_☯为您千千万万遍☯优选,North America,CA,Montréal,274,5.20
-89.168.93.6,443,443,true,FRA_4_☯为您千千万万遍☯优选,Europe,DE,Frankfurt,1,4.47
-15.222.245.142,8443,443,true,YUL_5_☯为您千千万万遍☯优选,North America,CA,Montréal,271,4.06
