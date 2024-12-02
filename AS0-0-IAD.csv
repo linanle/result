@@ -1,0 +1,6 @@
+﻿IP地址,端口,回源端口,TLS,数据中心,地区,国家,城市,TCP延迟(ms),速度(MB/s)
+104.248.16.87,443,443,true,FRA,Europe,DE,Frankfurt,4,1.87
+52.29.224.33,443,443,true,FRA,Europe,DE,Frankfurt,6,1.82
+8.219.79.88,443,443,true,IAD,North America,US,Ashburn,0,1.51
+107.175.245.68,50242,443,true,IAD,North America,US,Ashburn,257,1.23
+79.76.110.106,443,443,true,FRA,Europe,DE,Frankfurt,0,1.06
