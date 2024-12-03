@@ -1,11 +1,11 @@
 ﻿IP地址,端口,回源端口,TLS,数据中心,地区,国家,城市,TCP延迟(ms),速度(MB/s)
-154.26.181.45,18809,443,true,LAX_1_☯为您千千万万遍☯优选,North America,US,Los Angeles,146,13.03
-154.21.94.99,45067,443,true,SJC_2_☯为您千千万万遍☯优选_2_☯为您千千万万遍☯优选,North America,US,San Jose,145,12.89
-154.17.7.113,9003,8080,false,LAX_3_☯为您千千万万遍☯优选_3_☯为您千千万万遍☯优选,North America,US,Los Angeles,147,12.56
-154.17.7.113,9028,8080,false,LAX_4_☯为您千千万万遍☯优选_4_☯为您千千万万遍☯优选,North America,US,Los Angeles,150,12.52
-38.60.89.176,47827,443,true,LAX_5_☯为您千千万万遍☯优选_5_☯为您千千万万遍☯优选,North America,US,Los Angeles,148,12.31
-23.169.184.125,25526,443,true,LAX_6_☯为您千千万万遍☯优选_6_☯为您千千万万遍☯优选,North America,US,Los Angeles,147,12.24
-38.148.254.137,56134,443,true,LAX_7_☯为您千千万万遍☯优选_7_☯为您千千万万遍☯优选,North America,US,Los Angeles,147,12.23
-154.21.90.175,55200,443,true,LAX_8_☯为您千千万万遍☯优选_8_☯为您千千万万遍☯优选,North America,US,Los Angeles,151,11.82
-154.17.231.85,47916,443,true,SJC_9_☯为您千千万万遍☯优选_9_☯为您千千万万遍☯优选,North America,US,San Jose,148,11.59
-38.60.92.21,8443,443,true,SJC_10_☯为您千千万万遍☯优选,North America,US,San Jose,170,11.16
+154.17.12.26,8447,443,true,LAX_2_☯为您千千万万遍☯优选,North America,US,Los Angeles,147,15.27
+154.17.12.26,8443,443,true,LAX_3_☯为您千千万万遍☯优选,North America,US,Los Angeles,145,12.82
+154.17.2.31,55943,443,true,LAX_4_☯为您千千万万遍☯优选,North America,US,Los Angeles,143,12.46
+154.26.179.50,14713,443,true,LAX_5_☯为您千千万万遍☯优选,North America,US,Los Angeles,146,12.34
+154.17.12.14,38609,443,true,LAX_6_☯为您千千万万遍☯优选,North America,US,Los Angeles,148,12.16
+38.85.247.128,45213,443,true,LAX_7_☯为您千千万万遍☯优选,North America,US,Los Angeles,140,11.74
+38.60.89.176,47827,443,true,LAX_8_☯为您千千万万遍☯优选,North America,US,Los Angeles,139,11.45
+23.165.248.24,36883,443,true,LAX_9_☯为您千千万万遍☯优选,North America,US,Los Angeles,140,11.41
+154.17.7.113,9008,8080,false,LAX_10_☯为您千千万万遍☯优选,North America,US,Los Angeles,146,11.21
+154.17.17.46,48946,443,true,SJC_11_☯为您千千万万遍☯优选,North America,US,San Jose,151,10.76
