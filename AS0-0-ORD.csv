@@ -1,11 +1,11 @@
 ﻿IP地址,端口,回源端口,TLS,数据中心,地区,国家,城市,TCP延迟(ms),速度(MB/s)
-38.148.254.137,21347,443,true,ORD_2_☯为您千千万万遍☯优选,North America,US,Chicago,148,10.27
-67.226.222.112,80,443,true,LAX_3_☯为您千千万万遍☯优选,North America,US,Los Angeles,7,9.36
-35.226.211.129,443,443,true,LAX_4_☯为您千千万万遍☯优选,North America,US,Los Angeles,1,8.33
-23.94.137.117,443,443,true,LAX_5_☯为您千千万万遍☯优选,North America,US,Los Angeles,1,7.59
-67.226.222.163,80,443,true,LAX_6_☯为您千千万万遍☯优选,North America,US,Los Angeles,1,7.34
-20.221.32.145,443,443,true,LAX_7_☯为您千千万万遍☯优选,North America,US,Los Angeles,6,6.80
-34.55.194.208,443,443,true,LAX_8_☯为您千千万万遍☯优选,North America,US,Los Angeles,2,6.64
-204.110.223.139,80,443,true,LAX_9_☯为您千千万万遍☯优选,North America,US,Los Angeles,3,6.54
-204.110.223.90,80,443,true,LAX_10_☯为您千千万万遍☯优选,North America,US,Los Angeles,1,6.21
-18.189.94.250,443,443,true,LAX_11_☯为您千千万万遍☯优选,North America,US,Los Angeles,0,6.06
+67.226.222.244,80,443,true,🇺🇸美国洛杉矶_1-☯为您千千万万遍☯,North America,US,Los Angeles,0,10.82
+204.110.223.254,443,443,true,🇺🇸美国洛杉矶_2-☯为您千千万万遍☯,North America,US,Los Angeles,5,9.86
+34.66.72.229,443,443,true,🇺🇸美国洛杉矶_3-☯为您千千万万遍☯,North America,US,Los Angeles,1,9.34
+204.110.223.47,80,443,true,🇺🇸美国洛杉矶_4-☯为您千千万万遍☯,North America,US,Los Angeles,1,9.12
+20.25.205.37,2053,443,true,🇺🇸美国芝加哥_5-☯为您千千万万遍☯,North America,US,Chicago,188,7.81
+204.110.223.238,80,443,true,🇺🇸美国洛杉矶_6-☯为您千千万万遍☯,North America,US,Los Angeles,3,6.81
+67.226.222.47,80,443,true,🇺🇸美国洛杉矶_7-☯为您千千万万遍☯,North America,US,Los Angeles,0,6.68
+18.188.58.86,443,443,true,🇺🇸美国洛杉矶_8-☯为您千千万万遍☯,North America,US,Los Angeles,5,6.33
+204.216.105.106,8443,8443,true,🇨🇦加拿大蒙特利尔_9-☯为您千千万万遍☯,North America,CA,Montréal,256,6.16
+204.110.223.73,80,443,true,🇺🇸美国洛杉矶_10-☯为您千千万万遍☯,North America,US,Los Angeles,1,5.43

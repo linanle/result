@@ -1,11 +1,10 @@
 ﻿IP地址,端口,回源端口,TLS,数据中心,地区,国家,城市,TCP延迟(ms),速度(MB/s)
-20.46.151.138,2083,443,true,BOM_2_☯为您千千万万遍☯优选,Asia Pacific,IN,Mumbai,186,8.20
-35.200.238.235,443,443,true,LAX_3_☯为您千千万万遍☯优选,North America,US,Los Angeles,1,8.05
-35.200.202.118,443,443,true,LAX_4_☯为您千千万万遍☯优选,North America,US,Los Angeles,0,4.27
-3.111.155.29,443,443,true,LAX_5_☯为您千千万万遍☯优选,North America,US,Los Angeles,0,4.13
-20.235.220.189,443,443,true,LAX_6_☯为您千千万万遍☯优选,North America,US,Los Angeles,1,4.07
-98.70.26.236,443,443,true,LAX_7_☯为您千千万万遍☯优选,North America,US,Los Angeles,0,3.78
-13.233.5.49,443,443,true,LAX_8_☯为您千千万万遍☯优选,North America,US,Los Angeles,0,2.23
-20.173.66.64,2053,443,true,BOM_9_☯为您千千万万遍☯优选,Asia Pacific,IN,Mumbai,194,1.83
-65.2.54.159,8443,443,true,BOM_10_☯为您千千万万遍☯优选,Asia Pacific,IN,Mumbai,273,0.73
-3.111.217.79,8443,443,true,BOM_11_☯为您千千万万遍☯优选,Asia Pacific,IN,Mumbai,273,0.43
+20.235.105.146,443,443,true,🇺🇸美国洛杉矶_1-☯为您千千万万遍☯,North America,US,Los Angeles,1,6.04
+20.233.68.69,2053,443,true,🇮🇳印度孟买_2-☯为您千千万万遍☯,Asia Pacific,IN,Mumbai,165,5.53
+98.70.26.236,443,443,true,🇺🇸美国洛杉矶_3-☯为您千千万万遍☯,North America,US,Los Angeles,0,4.56
+43.204.208.173,443,443,true,🇺🇸美国洛杉矶_4-☯为您千千万万遍☯,North America,US,Los Angeles,0,3.31
+20.173.66.64,2053,443,true,🇮🇳印度孟买_5-☯为您千千万万遍☯,Asia Pacific,IN,Mumbai,196,3.19
+35.200.229.153,443,443,true,🇺🇸美国洛杉矶_6-☯为您千千万万遍☯,North America,US,Los Angeles,0,2.14
+3.7.108.69,443,443,true,🇺🇸美国洛杉矶_7-☯为您千千万万遍☯,North America,US,Los Angeles,1,0.71
+3.111.217.79,8443,443,true,🇮🇳印度孟买_8-☯为您千千万万遍☯,Asia Pacific,IN,Mumbai,272,0.57
+3.111.155.29,443,443,true,🇺🇸美国洛杉矶_9-☯为您千千万万遍☯,North America,US,Los Angeles,0,0.47

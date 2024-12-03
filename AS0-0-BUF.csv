@@ -1,8 +1,8 @@
 ﻿IP地址,端口,回源端口,TLS,数据中心,地区,国家,城市,TCP延迟(ms),速度(MB/s)
-172.245.107.99,45203,443,true,BUF_2_☯为您千千万万遍☯优选,North America,US,Buffalo,266,6.71
-107.172.132.165,43333,443,true,BUF_3_☯为您千千万万遍☯优选,North America,US,Buffalo,274,5.78
-107.172.62.49,40722,443,true,BUF_4_☯为您千千万万遍☯优选,North America,US,Buffalo,260,5.41
-107.172.63.101,34237,2096,true,YYZ_5_☯为您千千万万遍☯优选,North America,CA,Toronto,250,5.33
-107.172.62.49,27014,443,true,YYZ_6_☯为您千千万万遍☯优选,North America,CA,Toronto,260,4.58
-107.175.206.114,55333,443,true,BUF_7_☯为您千千万万遍☯优选,North America,US,Buffalo,255,4.25
-172.245.10.114,8128,80,false,BUF_8_☯为您千千万万遍☯优选,North America,US,Buffalo,267,3.49
+107.175.35.20,52290,443,true,🇺🇸美国布法罗_1-☯为您千千万万遍☯,North America,US,Buffalo,270,5.61
+107.172.62.49,27014,443,true,🇺🇸美国纽瓦克_2-☯为您千千万万遍☯,North America,US,Newark,261,5.44
+107.172.132.165,43333,443,true,🇺🇸美国布法罗_3-☯为您千千万万遍☯,North America,US,Buffalo,266,5.25
+107.172.62.49,25956,443,true,🇺🇸美国布法罗_4-☯为您千千万万遍☯,North America,US,Buffalo,264,4.77
+108.174.61.161,38712,443,true,🇺🇸美国布法罗_5-☯为您千千万万遍☯,North America,US,Buffalo,256,4.72
+198.12.123.64,443,443,true,🇺🇸美国洛杉矶_6-☯为您千千万万遍☯,North America,US,Los Angeles,0,2.58
+172.245.10.114,8128,80,false,🇺🇸美国布法罗_7-☯为您千千万万遍☯,North America,US,Buffalo,258,2.44
