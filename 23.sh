@@ -1,0 +1,1 @@
+awk -F, 'BEGIN {OFS=","} NR==1 || NR<=10 {if (NR==1 || $5 ~ /HELLO/i) {print $0} else {$5=$5"_"NR-1"_HELLO"; print $0}}' AS0-0-LAX.csv > 临时文件.csv && mv 临时文件.csv AS0-0-LAX.csv
