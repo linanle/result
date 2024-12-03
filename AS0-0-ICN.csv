@@ -1,11 +1,11 @@
 ﻿IP地址,端口,回源端口,TLS,数据中心,地区,国家,城市,TCP延迟(ms),速度(MB/s)
-52.231.97.210,2053,443,true,🇰🇷韩国首尔_1-☯为您千千万万遍☯,Asia Pacific,KR,Seoul,106,21.13
-193.123.240.12,443,443,true,🇺🇸美国洛杉矶_2-☯为您千千万万遍☯,North America,US,Los Angeles,1,10.73
-20.41.104.196,443,443,true,🇺🇸美国洛杉矶_3-☯为您千千万万遍☯,North America,US,Los Angeles,1,9.61
-140.245.68.175,443,443,true,🇺🇸美国洛杉矶_4-☯为您千千万万遍☯,North America,US,Los Angeles,0,8.27
-210.87.195.194,33312,443,true,🇰🇷韩国首尔_5-☯为您千千万万遍☯,Asia Pacific,KR,Seoul,41,3.79
-144.24.64.76,443,443,true,🇺🇸美国洛杉矶_6-☯为您千千万万遍☯,North America,US,Los Angeles,0,3.12
-138.2.122.191,443,443,true,🇺🇸美国洛杉矶_7-☯为您千千万万遍☯,North America,US,Los Angeles,2,2.99
-152.69.232.7,443,443,true,🇺🇸美国洛杉矶_8-☯为您千千万万遍☯,North America,US,Los Angeles,1,2.93
-8.220.213.202,443,443,true,🇺🇸美国洛杉矶_9-☯为您千千万万遍☯,North America,US,Los Angeles,2,2.45
-43.133.70.168,8443,8443,true,🇰🇷韩国首尔_10-☯为您千千万万遍☯,Asia Pacific,KR,Seoul,136,2.07
+52.231.97.210,2053,443,true,🇰🇷韩国首尔_1-☯为您千千万万遍☯优选,Asia Pacific,KR,Seoul,106,21.13
+193.123.240.12,443,443,true,🇺🇸美国洛杉矶_2-☯为您千千万万遍☯优选,North America,US,Los Angeles,1,10.73
+20.41.104.196,443,443,true,🇺🇸美国洛杉矶_3-☯为您千千万万遍☯优选,North America,US,Los Angeles,1,9.61
+140.245.68.175,443,443,true,🇺🇸美国洛杉矶_4-☯为您千千万万遍☯优选,North America,US,Los Angeles,0,8.27
+210.87.195.194,33312,443,true,🇰🇷韩国首尔_5-☯为您千千万万遍☯优选,Asia Pacific,KR,Seoul,41,3.79
+144.24.64.76,443,443,true,🇺🇸美国洛杉矶_6-☯为您千千万万遍☯优选,North America,US,Los Angeles,0,3.12
+138.2.122.191,443,443,true,🇺🇸美国洛杉矶_7-☯为您千千万万遍☯优选,North America,US,Los Angeles,2,2.99
+152.69.232.7,443,443,true,🇺🇸美国洛杉矶_8-☯为您千千万万遍☯优选,North America,US,Los Angeles,1,2.93
+8.220.213.202,443,443,true,🇺🇸美国洛杉矶_9-☯为您千千万万遍☯优选,North America,US,Los Angeles,2,2.45
+43.133.70.168,8443,8443,true,🇰🇷韩国首尔_10-☯为您千千万万遍☯优选,Asia Pacific,KR,Seoul,136,2.07
