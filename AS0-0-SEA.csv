@@ -1,0 +1,11 @@
+﻿IP地址,端口,回源端口,TLS,数据中心,地区,国家,城市,TCP延迟(ms),速度(MB/s)
+44.244.121.192,8443,443,true,SEA_1_☯为您千千万万遍☯优选,North America,US,Seattle,181,9.90
+54.218.22.254,8443,443,true,SEA_2_☯为您千千万万遍☯优选_2_☯为您千千万万遍☯优选,North America,US,Seattle,200,8.82
+34.216.142.9,8443,443,true,SEA_3_☯为您千千万万遍☯优选_3_☯为您千千万万遍☯优选,North America,US,Seattle,221,8.23
+54.190.156.147,8443,443,true,SEA_4_☯为您千千万万遍☯优选_4_☯为您千千万万遍☯优选,North America,US,Seattle,173,8.18
+34.222.98.101,8443,443,true,SEA_5_☯为您千千万万遍☯优选_5_☯为您千千万万遍☯优选,North America,US,Seattle,208,7.98
+35.92.156.162,8443,443,true,SEA_6_☯为您千千万万遍☯优选_6_☯为您千千万万遍☯优选,North America,US,Seattle,206,7.38
+52.36.203.225,8443,443,true,SEA_7_☯为您千千万万遍☯优选_7_☯为您千千万万遍☯优选,North America,US,Seattle,199,7.27
+34.168.16.80,8443,443,true,SEA_8_☯为您千千万万遍☯优选_8_☯为您千千万万遍☯优选,North America,US,Seattle,255,7.03
+35.91.175.17,8443,443,true,SEA_9_☯为您千千万万遍☯优选_9_☯为您千千万万遍☯优选,North America,US,Seattle,181,6.14
+35.90.234.81,8443,443,true,SEA_10_☯为您千千万万遍☯优选,North America,US,Seattle,210,5.66
