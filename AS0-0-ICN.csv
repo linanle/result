@@ -1,11 +1,34 @@
 ﻿IP地址,端口,回源端口,TLS,数据中心,地区,国家,城市,TCP延迟(ms),速度(MB/s)
-52.231.97.210,2053,443,true,🇰🇷韩国首尔_1-☯为您千千万万遍☯优选,Asia Pacific,KR,Seoul,106,21.13
-193.123.240.12,443,443,true,🇺🇸美国洛杉矶_2-☯为您千千万万遍☯优选,North America,US,Los Angeles,1,10.73
-20.41.104.196,443,443,true,🇺🇸美国洛杉矶_3-☯为您千千万万遍☯优选,North America,US,Los Angeles,1,9.61
-140.245.68.175,443,443,true,🇺🇸美国洛杉矶_4-☯为您千千万万遍☯优选,North America,US,Los Angeles,0,8.27
-210.87.195.194,33312,443,true,🇰🇷韩国首尔_5-☯为您千千万万遍☯优选,Asia Pacific,KR,Seoul,41,3.79
-144.24.64.76,443,443,true,🇺🇸美国洛杉矶_6-☯为您千千万万遍☯优选,North America,US,Los Angeles,0,3.12
-138.2.122.191,443,443,true,🇺🇸美国洛杉矶_7-☯为您千千万万遍☯优选,North America,US,Los Angeles,2,2.99
-152.69.232.7,443,443,true,🇺🇸美国洛杉矶_8-☯为您千千万万遍☯优选,North America,US,Los Angeles,1,2.93
-8.220.213.202,443,443,true,🇺🇸美国洛杉矶_9-☯为您千千万万遍☯优选,North America,US,Los Angeles,2,2.45
-43.133.70.168,8443,8443,true,🇰🇷韩国首尔_10-☯为您千千万万遍☯优选,Asia Pacific,KR,Seoul,136,2.07
+217.142.138.20,443,443,true,LAX,North America,US,Los Angeles,7,10.45
+64.110.79.188,443,443,true,LAX,North America,US,Los Angeles,13,10.14
+193.122.125.223,443,443,true,LAX,North America,US,Los Angeles,12,9.96
+152.70.247.23,443,443,true,LAX,North America,US,Los Angeles,7,9.54
+146.56.101.141,443,443,true,LAX,North America,US,Los Angeles,12,9.17
+129.154.198.18,443,443,true,LAX,North America,US,Los Angeles,6,9.13
+152.67.221.182,443,443,true,LAX,North America,US,Los Angeles,13,8.80
+129.154.211.183,443,443,true,LAX,North America,US,Los Angeles,11,8.67
+146.56.153.181,443,443,true,LAX,North America,US,Los Angeles,6,8.42
+152.70.90.168,443,443,true,LAX,North America,US,Los Angeles,12,7.71
+185.214.103.210,29862,443,true,ICN,Asia Pacific,KR,Seoul,51,4.05
+132.145.94.80,443,443,true,LAX,North America,US,Los Angeles,0,3.64
+43.133.70.168,8443,8443,true,ICN,Asia Pacific,KR,Seoul,87,3.59
+193.123.235.174,443,443,true,LAX,North America,US,Los Angeles,6,3.19
+4.230.9.53,443,443,true,LAX,North America,US,Los Angeles,2,2.82
+152.67.206.194,443,443,true,LAX,North America,US,Los Angeles,12,2.39
+52.141.25.42,443,443,true,LAX,North America,US,Los Angeles,6,1.94
+158.180.65.145,443,443,true,LAX,North America,US,Los Angeles,13,1.88
+193.123.243.19,443,443,true,LAX,North America,US,Los Angeles,6,1.47
+193.123.240.12,443,443,true,LAX,North America,US,Los Angeles,11,1.32
+3.37.89.222,443,443,true,LAX,North America,US,Los Angeles,10,1.30
+158.180.71.168,443,443,true,LAX,North America,US,Los Angeles,0,1.30
+152.67.222.167,443,443,true,LAX,North America,US,Los Angeles,0,1.08
+185.213.62.199,39584,443,true,ICN,Asia Pacific,KR,Seoul,38,1.02
+59.3.3.161,443,443,true,LAX,North America,US,Los Angeles,13,1.01
+146.56.143.124,443,443,true,LAX,North America,US,Los Angeles,11,0.88
+152.69.232.133,443,443,true,LAX,North America,US,Los Angeles,11,0.62
+217.142.146.203,443,443,true,LAX,North America,US,Los Angeles,1,0.59
+193.123.232.118,443,443,true,LAX,North America,US,Los Angeles,6,0.56
+140.245.66.203,443,443,true,LAX,North America,US,Los Angeles,13,0.50
+129.154.222.251,443,443,true,LAX,North America,US,Los Angeles,0,0.49
+146.56.179.91,443,443,true,LAX,North America,US,Los Angeles,6,0.27
+140.238.18.74,443,443,true,LAX,North America,US,Los Angeles,12,0.00

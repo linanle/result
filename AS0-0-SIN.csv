@@ -1,11 +1,35 @@
 ﻿IP地址,端口,回源端口,TLS,数据中心,地区,国家,城市,TCP延迟(ms),速度(MB/s)
-3.1.116.161,8443,443,true,🇸🇬新加坡_1-☯为您千千万万遍☯优选,Asia Pacific,SG,Singapore,75,21.70
-13.229.183.153,2086,443,true,🇸🇬新加坡_2-☯为您千千万万遍☯优选,Asia Pacific,SG,Singapore,82,16.75
-129.150.51.223,443,443,true,🇺🇸美国洛杉矶_3-☯为您千千万万遍☯优选,North America,US,Los Angeles,4,10.45
-13.229.159.215,443,443,true,🇺🇸美国洛杉矶_4-☯为您千千万万遍☯优选,North America,US,Los Angeles,1,9.85
-43.156.53.68,443,443,true,🇺🇸美国洛杉矶_5-☯为您千千万万遍☯优选,North America,US,Los Angeles,4,7.90
-54.255.250.66,443,443,true,🇺🇸美国洛杉矶_6-☯为您千千万万遍☯优选,North America,US,Los Angeles,1,4.30
-8.213.197.132,8443,443,true,🇸🇬新加坡_7-☯为您千千万万遍☯优选,Asia Pacific,SG,Singapore,112,3.77
-43.128.112.160,443,443,true,🇺🇸美国洛杉矶_8-☯为您千千万万遍☯优选,North America,US,Los Angeles,4,3.59
-8.219.1.25,8443,443,true,🇸🇬新加坡_9-☯为您千千万万遍☯优选,Asia Pacific,SG,Singapore,86,3.58
-54.169.229.188,443,443,true,🇺🇸美国洛杉矶_10-☯为您千千万万遍☯优选,North America,US,Los Angeles,2,3.41
+13.229.183.153,2086,443,true,SIN,Asia Pacific,SG,Singapore,81,19.47
+20.198.241.32,2053,443,true,SIN,Asia Pacific,SG,Singapore,84,18.42
+3.1.116.161,8443,443,true,SIN,Asia Pacific,SG,Singapore,95,18.07
+54.255.250.66,443,443,true,LAX,North America,US,Los Angeles,4,9.09
+158.179.175.130,443,443,true,LAX,North America,US,Los Angeles,2,6.08
+8.222.250.88,443,443,true,LAX,North America,US,Los Angeles,2,4.63
+158.178.241.168,443,443,true,LAX,North America,US,Los Angeles,1,4.19
+168.138.188.20,443,443,true,LAX,North America,US,Los Angeles,0,4.09
+54.169.229.188,443,443,true,LAX,North America,US,Los Angeles,5,3.97
+8.219.1.25,8443,443,true,SIN,Asia Pacific,SG,Singapore,89,3.88
+8.212.167.243,8443,443,true,SIN,Asia Pacific,SG,Singapore,328,1.52
+146.56.129.167,443,443,true,LAX,North America,US,Los Angeles,3,1.31
+168.138.184.172,443,443,true,LAX,North America,US,Los Angeles,4,1.28
+13.229.159.215,443,443,true,SIN,Asia Pacific,SG,Singapore,78,1.23
+152.70.36.198,443,443,true,LAX,North America,US,Los Angeles,1,1.19
+54.151.243.2,443,443,true,LAX,North America,US,Los Angeles,4,1.10
+13.250.131.37,443,443,true,LAX,North America,US,Los Angeles,4,1.03
+13.228.142.218,443,443,true,LAX,North America,US,Los Angeles,1,0.95
+54.251.167.101,443,443,true,LAX,North America,US,Los Angeles,1,0.77
+129.150.34.50,443,443,true,LAX,North America,US,Los Angeles,3,0.67
+43.156.170.214,443,443,true,LAX,North America,US,Los Angeles,2,0.64
+13.215.250.30,443,443,true,LAX,North America,US,Los Angeles,0,0.51
+213.35.100.110,443,443,true,LAX,North America,US,Los Angeles,3,0.51
+150.109.11.223,443,443,true,LAX,North America,US,Los Angeles,3,0.51
+8.222.165.104,443,443,true,LAX,North America,US,Los Angeles,1,0.37
+43.156.116.194,443,443,true,LAX,North America,US,Los Angeles,4,0.36
+34.143.192.60,443,443,true,LAX,North America,US,Los Angeles,0,0.31
+8.219.118.238,443,443,true,LAX,North America,US,Los Angeles,3,0.31
+8.219.152.61,443,443,true,LAX,North America,US,Los Angeles,1,0.31
+13.228.155.72,443,443,true,LAX,North America,US,Los Angeles,3,0.30
+3.1.94.232,443,443,true,LAX,North America,US,Los Angeles,3,0.25
+129.226.150.167,443,443,true,LAX,North America,US,Los Angeles,3,0.21
+175.41.148.129,443,443,true,LAX,North America,US,Los Angeles,1,0.21
+47.236.181.185,8443,443,true,SIN,Asia Pacific,SG,Singapore,109,0.17
