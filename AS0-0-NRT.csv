@@ -1,18 +1,11 @@
 ﻿IP地址,端口,回源端口,TLS,数据中心,地区,国家,城市,TCP延迟(ms),速度(MB/s)
-35.77.126.144,443,443,true,NRT,Asia Pacific,JP,Tokyo,54,30.82
-185.200.66.20,57471,443,true,NRT,Asia Pacific,JP,Tokyo,76,21.98
-103.117.103.150,31913,443,true,NRT,Asia Pacific,JP,Tokyo,71,15.79
-45.60.186.91,2082,2082,false,MNL,Asia Pacific,PH,Manila,209,15.52
-45.143.235.60,16822,443,true,NRT,Asia Pacific,JP,Tokyo,75,13.58
-8.209.248.107,2087,443,true,NRT,Asia Pacific,JP,Tokyo,54,11.98
-154.31.113.72,443,443,true,LAX,North America,US,Los Angeles,1,10.79
-60.205.0.210,80,80,false,NRT,Asia Pacific,JP,Tokyo,35,6.66
-8.140.56.136,80,80,false,NRT,Asia Pacific,JP,Tokyo,38,6.62
-158.101.141.78,443,443,true,LAX,North America,US,Los Angeles,0,4.67
-45.60.186.91,443,443,true,LAX,North America,US,Los Angeles,1,4.43
-18.176.8.247,443,443,true,LAX,North America,US,Los Angeles,0,3.16
-150.230.102.132,443,443,true,LAX,North America,US,Los Angeles,1,2.65
-23.147.232.50,55555,443,true,NRT,Asia Pacific,JP,Tokyo,47,2.19
-103.20.199.88,30002,80,false,NRT,Asia Pacific,JP,Tokyo,55,1.55
-47.74.13.33,443,443,true,LAX,North America,US,Los Angeles,0,1.04
-45.60.186.91,2052,2052,false,HKG,Asia Pacific,HK,Hong Kong,81,0.91
+35.77.126.144,443,443,true,🇯🇵日本东京_1-☯为您千千万万遍☯优选,Asia Pacific,JP,Tokyo,54,30.82
+185.200.66.20,57471,443,true,🇯🇵日本东京_2-☯为您千千万万遍☯优选,Asia Pacific,JP,Tokyo,76,21.98
+103.117.103.150,31913,443,true,🇯🇵日本东京_3-☯为您千千万万遍☯优选,Asia Pacific,JP,Tokyo,71,15.79
+45.60.186.91,2082,2082,false,MNL_4-☯为您千千万万遍☯优选,Asia Pacific,PH,Manila,209,15.52
+45.143.235.60,16822,443,true,🇯🇵日本东京_5-☯为您千千万万遍☯优选,Asia Pacific,JP,Tokyo,75,13.58
+8.209.248.107,2087,443,true,🇯🇵日本东京_6-☯为您千千万万遍☯优选,Asia Pacific,JP,Tokyo,54,11.98
+154.31.113.72,443,443,true,🇺🇸美国洛杉矶_7-☯为您千千万万遍☯优选,North America,US,Los Angeles,1,10.79
+60.205.0.210,80,80,false,🇯🇵日本东京_8-☯为您千千万万遍☯优选,Asia Pacific,JP,Tokyo,35,6.66
+8.140.56.136,80,80,false,🇯🇵日本东京_9-☯为您千千万万遍☯优选,Asia Pacific,JP,Tokyo,38,6.62
+158.101.141.78,443,443,true,🇺🇸美国洛杉矶_10-☯为您千千万万遍☯优选,North America,US,Los Angeles,0,4.67
