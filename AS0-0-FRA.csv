@@ -1,11 +1,63 @@
 ﻿IP地址,端口,回源端口,TLS,数据中心,地区,国家,城市,TCP延迟(ms),速度(MB/s)
-130.162.164.218,443,443,true,🇺🇸美国洛杉矶_1-☯为您千千万万遍☯优选,North America,US,Los Angeles,0,11.77
-3.68.31.54,443,443,true,🇺🇸美国洛杉矶_2-☯为您千千万万遍☯优选,North America,US,Los Angeles,0,10.42
-143.47.190.32,443,443,true,🇺🇸美国洛杉矶_3-☯为您千千万万遍☯优选,North America,US,Los Angeles,2,10.34
-84.8.153.67,443,0,true,🇺🇸美国洛杉矶_4-☯为您千千万万遍☯优选,North America,US,Los Angeles,0,10.31
-129.159.31.244,443,443,true,🇺🇸美国洛杉矶_5-☯为您千千万万遍☯优选,North America,US,Los Angeles,0,10.24
-158.101.208.211,443,443,true,🇺🇸美国洛杉矶_6-☯为您千千万万遍☯优选,North America,US,Los Angeles,0,10.14
-18.193.131.26,443,443,true,🇺🇸美国洛杉矶_7-☯为您千千万万遍☯优选,North America,US,Los Angeles,0,9.98
-141.147.87.255,443,443,true,🇺🇸美国洛杉矶_8-☯为您千千万万遍☯优选,North America,US,Los Angeles,9,9.94
-194.247.187.181,443,443,true,🇺🇸美国洛杉矶_9-☯为您千千万万遍☯优选,North America,US,Los Angeles,0,9.87
-141.144.201.172,443,443,true,🇺🇸美国洛杉矶_10-☯为您千千万万遍☯优选,North America,US,Los Angeles,1,9.82
+84.235.173.46,443,443,true,LAX,North America,US,Los Angeles,0,13.06
+150.230.121.169,443,443,true,LAX,North America,US,Los Angeles,1,11.73
+141.148.231.191,443,443,true,LAX,North America,US,Los Angeles,1,11.28
+109.71.246.74,443,443,true,LAX,North America,US,Los Angeles,0,11.11
+141.148.231.253,443,443,true,LAX,North America,US,Los Angeles,0,10.07
+138.2.139.86,443,443,true,LAX,North America,US,Los Angeles,0,9.77
+141.147.103.152,443,443,true,LAX,North America,US,Los Angeles,1,8.80
+141.144.203.209,443,443,true,LAX,North America,US,Los Angeles,0,7.51
+193.123.188.47,443,443,true,LAX,North America,US,Los Angeles,4,6.74
+3.71.239.9,443,443,true,LAX,North America,US,Los Angeles,0,6.72
+38.180.100.80,443,443,true,LAX,North America,US,Los Angeles,0,6.35
+84.8.156.66,443,443,true,LAX,North America,US,Los Angeles,0,6.30
+129.159.240.152,443,443,true,LAX,North America,US,Los Angeles,0,5.89
+138.2.173.68,443,443,true,LAX,North America,US,Los Angeles,0,5.74
+144.21.37.44,443,443,true,LAX,North America,US,Los Angeles,0,5.59
+141.144.201.172,443,443,true,FRA,Europe,DE,Frankfurt,203,5.52
+158.101.218.49,443,443,true,LAX,North America,US,Los Angeles,0,5.38
+82.115.30.11,40419,443,true,FRA,Europe,DE,Frankfurt,153,5.13
+193.123.60.193,443,443,true,LAX,North America,US,Los Angeles,0,4.83
+141.144.198.131,443,443,true,LAX,North America,US,Los Angeles,0,4.81
+143.47.180.73,443,443,true,LAX,North America,US,Los Angeles,0,4.72
+87.251.87.167,443,443,true,LAX,North America,US,Los Angeles,1,4.72
+79.76.100.227,443,443,true,LAX,North America,US,Los Angeles,0,4.59
+158.178.155.46,443,443,true,LAX,North America,US,Los Angeles,0,4.28
+143.47.224.30,443,443,true,LAX,North America,US,Los Angeles,0,4.09
+130.162.165.2,443,443,true,LAX,North America,US,Los Angeles,0,4.08
+158.180.20.221,443,443,true,LAX,North America,US,Los Angeles,0,3.83
+150.230.146.170,2053,443,true,FRA,Europe,DE,Frankfurt,291,3.72
+84.8.159.107,443,443,true,LAX,North America,US,Los Angeles,2,3.56
+38.180.48.228,443,443,true,LAX,North America,US,Los Angeles,0,3.47
+141.147.31.3,443,443,true,LAX,North America,US,Los Angeles,0,3.32
+158.178.148.99,443,443,true,LAX,North America,US,Los Angeles,5,3.00
+158.178.156.195,443,443,true,LAX,North America,US,Los Angeles,2,2.64
+144.21.34.209,443,443,true,LAX,North America,US,Los Angeles,0,2.36
+18.192.62.218,443,443,true,LAX,North America,US,Los Angeles,0,1.98
+144.24.170.114,443,443,true,LAX,North America,US,Los Angeles,0,1.49
+3.64.216.209,2083,443,true,FRA,Europe,DE,Frankfurt,254,1.47
+35.159.161.39,2083,443,true,FRA,Europe,DE,Frankfurt,249,1.22
+89.168.68.57,2053,443,true,FRA,Europe,DE,Frankfurt,282,0.89
+3.77.236.216,443,443,true,LAX,North America,US,Los Angeles,0,0.84
+130.162.185.232,443,0,true,LAX,North America,US,Los Angeles,0,0.33
+157.241.22.160,2087,443,true,FRA,Europe,DE,Frankfurt,302,0.30
+141.147.61.116,2053,443,true,FRA,Europe,DE,Frankfurt,302,0.30
+141.147.61.116,8443,443,true,FRA,Europe,DE,Frankfurt,395,0.27
+141.148.225.17,443,0,true,LAX,North America,US,Los Angeles,0,0.27
+18.153.166.250,2053,443,true,FRA,Europe,DE,Frankfurt,248,0.07
+63.176.11.74,2096,443,true,FRA,Europe,DE,Frankfurt,258,0.05
+3.79.38.234,2053,443,true,FRA,Europe,DE,Frankfurt,202,0.04
+18.199.141.141,2053,443,true,FRA,Europe,DE,Frankfurt,208,0.04
+3.79.59.119,8443,443,true,FRA,Europe,DE,Frankfurt,257,0.04
+3.75.170.179,8080,443,true,FRA,Europe,DE,Frankfurt,251,0.04
+3.68.31.54,443,443,true,FRA,Europe,DE,Frankfurt,205,0.04
+35.156.134.213,8443,443,true,FRA,Europe,DE,Frankfurt,262,0.03
+194.247.187.181,443,0,true,FRA,Europe,DE,Frankfurt,307,0.03
+18.192.152.35,2053,443,true,FRA,Europe,DE,Frankfurt,256,0.02
+3.71.148.131,8443,443,true,FRA,Europe,DE,Frankfurt,254,0.02
+18.157.178.158,8443,443,true,FRA,Europe,DE,Frankfurt,251,0.02
+18.199.141.141,8443,443,true,FRA,Europe,DE,Frankfurt,257,0.01
+193.122.58.158,443,443,true,LAX,North America,US,Los Angeles,0,0.00
+193.122.50.245,443,443,true,LAX,North America,US,Los Angeles,1,0.00
+80.76.32.12,443,443,true,LAX,North America,US,Los Angeles,0,0.00
+144.21.42.43,443,443,true,LAX,North America,US,Los Angeles,1,0.00

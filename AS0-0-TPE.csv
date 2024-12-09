@@ -1,2 +1,3 @@
 ﻿IP地址,端口,回源端口,TLS,数据中心,地区,国家,城市,TCP延迟(ms),速度(MB/s)
-104.199.171.30,443,443,true,🇺🇸美国洛杉矶_1-☯为您千千万万遍☯优选,North America,US,Los Angeles,0,8.24
+35.201.203.106,443,443,true,LAX,North America,US,Los Angeles,0,13.55
+43.155.107.182,8443,443,true,TPE,Asia Pacific,TW,Taipei,44,3.55
