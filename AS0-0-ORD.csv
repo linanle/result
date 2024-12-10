@@ -1,45 +1,11 @@
 ﻿IP地址,端口,回源端口,TLS,数据中心,地区,国家,城市,TCP延迟(ms),速度(MB/s)
-18.191.122.211,443,443,true,LAX,North America,US,Los Angeles,0,13.37
-204.110.223.112,80,443,true,LAX,North America,US,Los Angeles,0,10.80
-204.110.223.46,80,443,true,LAX,North America,US,Los Angeles,0,10.57
-204.110.223.61,80,443,true,LAX,North America,US,Los Angeles,0,10.49
-204.110.223.158,80,443,true,LAX,North America,US,Los Angeles,0,9.72
-34.123.83.237,443,443,true,LAX,North America,US,Los Angeles,0,9.02
-38.148.254.137,21347,443,true,ORD,North America,US,Chicago,139,7.91
-20.125.214.184,8443,443,true,ORD,North America,US,Chicago,207,7.50
-20.125.213.121,8443,443,true,ORD,North America,US,Chicago,189,7.48
-204.110.223.244,80,443,true,LAX,North America,US,Los Angeles,8,6.71
-204.110.223.2,80,443,true,LAX,North America,US,Los Angeles,1,6.61
-204.110.223.224,80,443,true,LAX,North America,US,Los Angeles,0,6.38
-67.226.222.232,80,443,true,LAX,North America,US,Los Angeles,0,6.27
-204.110.223.72,80,443,true,LAX,North America,US,Los Angeles,0,6.11
-204.110.223.160,80,443,true,LAX,North America,US,Los Angeles,3,5.96
-204.110.223.52,80,443,true,LAX,North America,US,Los Angeles,0,5.60
-67.226.222.27,80,443,true,LAX,North America,US,Los Angeles,0,5.60
-204.110.223.147,80,443,true,ORD,North America,US,Chicago,272,5.41
-67.226.222.196,80,443,true,LAX,North America,US,Los Angeles,0,5.35
-3.141.223.191,8443,443,true,ORD,North America,US,Chicago,278,5.17
-204.110.223.30,80,443,true,LAX,North America,US,Los Angeles,0,4.70
-20.74.223.241,443,443,true,LAX,North America,US,Los Angeles,0,4.69
-204.110.223.163,80,443,true,ORD,North America,US,Chicago,268,4.60
-67.226.222.98,80,443,true,ORD,North America,US,Chicago,268,4.37
-3.141.223.191,2053,443,true,ORD,North America,US,Chicago,269,4.37
-20.125.214.152,8443,443,true,ORD,North America,US,Chicago,195,4.17
-67.226.222.223,80,443,true,LAX,North America,US,Los Angeles,5,4.01
-67.226.222.51,80,443,true,LAX,North America,US,Los Angeles,0,3.18
-67.226.222.152,80,443,true,LAX,North America,US,Los Angeles,1,3.10
-67.226.222.233,80,443,true,LAX,North America,US,Los Angeles,0,2.89
-204.110.223.120,80,443,true,LAX,North America,US,Los Angeles,2,2.52
-204.110.223.21,80,443,true,LAX,North America,US,Los Angeles,2,2.14
-204.110.223.43,80,443,true,LAX,North America,US,Los Angeles,0,1.97
-204.110.223.104,80,443,true,LAX,North America,US,Los Angeles,0,1.54
-67.226.222.53,80,443,true,LAX,North America,US,Los Angeles,0,1.34
-67.226.222.200,80,443,true,ORD,North America,US,Chicago,271,0.57
-67.226.222.156,80,443,true,LAX,North America,US,Los Angeles,0,0.39
-204.110.223.96,80,443,true,LAX,North America,US,Los Angeles,1,0.18
-108.174.50.200,2083,443,true,ORD,North America,US,Chicago,237,0.01
-172.245.86.209,34237,2096,true,ORD,North America,US,Chicago,268,0.00
-204.110.223.100,80,443,true,LAX,North America,US,Los Angeles,0,0.00
-204.110.223.50,80,443,true,LAX,North America,US,Los Angeles,0,0.00
-67.226.222.113,80,443,true,LAX,North America,US,Los Angeles,0,0.00
-204.110.223.151,80,443,true,LAX,North America,US,Los Angeles,0,0.00
+18.191.122.211,443,443,true,🇺🇸美国洛杉矶_1-☯为您千千万万遍☯优选,North America,US,Los Angeles,0,13.37
+204.110.223.112,80,443,true,🇺🇸美国洛杉矶_2-☯为您千千万万遍☯优选,North America,US,Los Angeles,0,10.80
+204.110.223.46,80,443,true,🇺🇸美国洛杉矶_3-☯为您千千万万遍☯优选,North America,US,Los Angeles,0,10.57
+204.110.223.61,80,443,true,🇺🇸美国洛杉矶_4-☯为您千千万万遍☯优选,North America,US,Los Angeles,0,10.49
+204.110.223.158,80,443,true,🇺🇸美国洛杉矶_5-☯为您千千万万遍☯优选,North America,US,Los Angeles,0,9.72
+34.123.83.237,443,443,true,🇺🇸美国洛杉矶_6-☯为您千千万万遍☯优选,North America,US,Los Angeles,0,9.02
+38.148.254.137,21347,443,true,🇺🇸美国芝加哥_7-☯为您千千万万遍☯优选,North America,US,Chicago,139,7.91
+20.125.214.184,8443,443,true,🇺🇸美国芝加哥_8-☯为您千千万万遍☯优选,North America,US,Chicago,207,7.50
+20.125.213.121,8443,443,true,🇺🇸美国芝加哥_9-☯为您千千万万遍☯优选,North America,US,Chicago,189,7.48
+204.110.223.244,80,443,true,🇺🇸美国洛杉矶_10-☯为您千千万万遍☯优选,North America,US,Los Angeles,8,6.71
