@@ -1,11 +1,11 @@
 ﻿IP地址,端口,回源端口,TLS,数据中心,地区,国家,城市,TCP延迟(ms),速度(MB/s)
-54.168.173.74,2096,2087,true,🇯🇵日本东京_1-☯为您千千万万遍☯优选,Asia Pacific,JP,Tokyo,47,24.10
-45.159.48.42,34237,2096,true,🇯🇵日本东京_2-☯为您千千万万遍☯优选,Asia Pacific,JP,Tokyo,69,23.26
-45.60.186.91,443,443,true,🇺🇸美国洛杉矶_3-☯为您千千万万遍☯优选,North America,US,Los Angeles,0,10.62
-43.207.78.212,443,443,true,🇺🇸美国洛杉矶_4-☯为您千千万万遍☯优选,North America,US,Los Angeles,0,10.19
-52.197.230.94,443,443,true,🇺🇸美国洛杉矶_5-☯为您千千万万遍☯优选,North America,US,Los Angeles,0,8.61
-140.238.60.225,443,443,true,🇺🇸美国洛杉矶_6-☯为您千千万万遍☯优选,North America,US,Los Angeles,0,7.55
-154.31.113.72,443,443,true,🇺🇸美国布法罗_7-☯为您千千万万遍☯优选,North America,US,Buffalo,0,6.88
-8.140.56.136,80,80,false,🇯🇵日本东京_8-☯为您千千万万遍☯优选,Asia Pacific,JP,Tokyo,41,6.73
-131.186.60.210,8080,443,true,🇯🇵日本东京_9-☯为您千千万万遍☯优选,Asia Pacific,JP,Tokyo,72,3.96
-207.148.105.247,443,443,true,🇯🇵日本东京_10-☯为您千千万万遍☯优选,Asia Pacific,JP,Tokyo,273,1.68
+45.159.48.42,34237,2096,true,🇯🇵日本东京_1-☯为您千千万万遍☯优选,Asia Pacific,JP,Tokyo,74,14.32
+60.205.0.210,80,80,false,🇯🇵日本东京_2-☯为您千千万万遍☯优选,Asia Pacific,JP,Tokyo,41,6.58
+8.140.56.136,80,80,false,🇯🇵日本东京_3-☯为您千千万万遍☯优选,Asia Pacific,JP,Tokyo,39,6.58
+207.148.105.247,443,443,true,🇯🇵日本东京_4-☯为您千千万万遍☯优选,Asia Pacific,JP,Tokyo,190,6.15
+45.60.186.91,2052,2052,false,🇸🇬新加坡_5-☯为您千千万万遍☯优选,Asia Pacific,SG,Singapore,84,5.85
+213.218.254.218,59104,443,true,🇯🇵日本东京_6-☯为您千千万万遍☯优选,Asia Pacific,JP,Tokyo,173,5.19
+47.91.18.127,443,443,true,🇺🇸美国洛杉矶_7-☯为您千千万万遍☯优选,North America,US,Los Angeles,0,4.66
+45.60.186.91,2082,2082,false,🇸🇬新加坡_8-☯为您千千万万遍☯优选,Asia Pacific,SG,Singapore,92,4.30
+103.20.199.88,30002,80,false,🇯🇵日本东京_9-☯为您千千万万遍☯优选,Asia Pacific,JP,Tokyo,46,1.19
+43.207.78.212,443,443,true,🇺🇸美国洛杉矶_10-☯为您千千万万遍☯优选,North America,US,Los Angeles,1,1.11
