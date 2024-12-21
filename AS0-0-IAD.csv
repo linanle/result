@@ -1,11 +1,5 @@
 ﻿IP地址,端口,回源端口,TLS,数据中心,地区,国家,城市,TCP延迟(ms),速度(MB/s)
-67.226.220.10,443,443,true,🇨🇦加拿大多伦多_1-☯为您千千万万遍☯优选,North America,CA,Toronto,1,10.91
-150.136.87.192,443,443,true,🇺🇸美国洛杉矶_2-☯为您千千万万遍☯优选,North America,US,Los Angeles,0,10.26
-129.80.102.136,443,443,true,🇺🇸美国洛杉矶_3-☯为您千千万万遍☯优选,North America,US,Los Angeles,0,7.57
-129.158.241.0,443,443,true,🇨🇦加拿大多伦多_4-☯为您千千万万遍☯优选,North America,CA,Toronto,1,7.49
-129.213.136.180,443,443,true,🇨🇦加拿大多伦多_5-☯为您千千万万遍☯优选,North America,CA,Toronto,0,6.51
-107.175.222.33,8443,443,true,🇺🇸美国华盛顿特区_6-☯为您千千万万遍☯优选,North America,US,Ashburn,250,4.42
-172.174.249.255,443,443,true,🇺🇸美国洛杉矶_7-☯为您千千万万遍☯优选,North America,US,Los Angeles,1,4.14
-3.18.196.26,443,443,true,DFW_8-☯为您千千万万遍☯优选,North America,US,Dallas,1,4.03
-4.255.56.137,443,443,true,🇨🇦加拿大多伦多_9-☯为您千千万万遍☯优选,North America,CA,Toronto,1,4.03
-34.194.76.43,443,443,true,🇺🇸美国洛杉矶_10-☯为您千千万万遍☯优选,North America,US,Los Angeles,0,3.84
+107.175.245.68,50242,443,true,🇺🇸美国华盛顿特区_1-☯为您千千万万遍☯优选,North America,US,Ashburn,286,1.02
+129.80.172.172,443,443,true,🇺🇸美国布法罗_2-☯为您千千万万遍☯优选,North America,US,Buffalo,2,0.00
+52.14.119.48,443,0,true,🇺🇸美国布法罗_3-☯为您千千万万遍☯优选,North America,US,Buffalo,2,0.00
+172.174.249.255,443,443,true,🇺🇸美国布法罗_4-☯为您千千万万遍☯优选,North America,US,Buffalo,1,0.00

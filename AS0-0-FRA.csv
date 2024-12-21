@@ -1,11 +1,11 @@
 ﻿IP地址,端口,回源端口,TLS,数据中心,地区,国家,城市,TCP延迟(ms),速度(MB/s)
-130.162.48.189,443,443,true,DFW_1-☯为您千千万万遍☯优选,North America,US,Dallas,0,12.68
-18.193.144.17,443,443,true,🇺🇸美国洛杉矶_2-☯为您千千万万遍☯优选,North America,US,Los Angeles,0,11.95
-130.61.10.117,443,0,true,🇺🇸美国洛杉矶_3-☯为您千千万万遍☯优选,North America,US,Los Angeles,0,10.99
-152.70.58.27,443,443,true,🇺🇸美国洛杉矶_4-☯为您千千万万遍☯优选,North America,US,Los Angeles,1,10.98
-140.238.83.26,443,443,true,DFW_5-☯为您千千万万遍☯优选,North America,US,Dallas,0,10.97
-144.24.166.110,443,443,true,🇺🇸美国布法罗_6-☯为您千千万万遍☯优选,North America,US,Buffalo,0,10.94
-138.3.251.23,443,443,true,DFW_7-☯为您千千万万遍☯优选,North America,US,Dallas,0,10.88
-152.67.131.41,443,443,true,🇺🇸美国洛杉矶_8-☯为您千千万万遍☯优选,North America,US,Los Angeles,0,10.88
-152.70.62.169,443,443,true,DFW_9-☯为您千千万万遍☯优选,North America,US,Dallas,0,10.71
-141.148.230.80,443,443,true,DFW_10-☯为您千千万万遍☯优选,North America,US,Dallas,0,10.70
+185.217.108.43,2087,2083,true,🇩🇪德国法兰克福_1-☯为您千千万万遍☯优选,Europe,DE,Frankfurt,150,10.14
+82.115.30.115,56722,443,true,🇩🇪德国法兰克福_2-☯为您千千万万遍☯优选,Europe,DE,Frankfurt,155,9.44
+147.45.73.218,443,0,true,🇺🇸美国布法罗_3-☯为您千千万万遍☯优选,North America,US,Buffalo,0,8.10
+4.184.172.43,8443,443,true,🇩🇪德国法兰克福_4-☯为您千千万万遍☯优选,Europe,DE,Frankfurt,250,6.01
+152.67.131.41,443,443,true,🇩🇪德国法兰克福_5-☯为您千千万万遍☯优选,Europe,DE,Frankfurt,266,3.67
+84.8.152.150,443,0,true,🇺🇸美国洛杉矶_6-☯为您千千万万遍☯优选,North America,US,Los Angeles,2,3.42
+141.147.61.116,8443,443,true,🇩🇪德国法兰克福_7-☯为您千千万万遍☯优选,Europe,DE,Frankfurt,211,2.01
+138.3.249.67,443,0,true,🇺🇸美国洛杉矶_8-☯为您千千万万遍☯优选,North America,US,Los Angeles,0,1.79
+89.168.68.57,2053,443,true,🇩🇪德国法兰克福_9-☯为您千千万万遍☯优选,Europe,DE,Frankfurt,299,1.11
+3.67.6.244,2053,443,true,🇩🇪德国法兰克福_10-☯为您千千万万遍☯优选,Europe,DE,Frankfurt,271,0.88
