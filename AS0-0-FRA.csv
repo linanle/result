@@ -1,11 +1,11 @@
 ﻿IP地址,端口,回源端口,TLS,数据中心,地区,国家,城市,TCP延迟(ms),速度(MB/s)
-185.217.108.43,2087,2083,true,🇩🇪德国法兰克福_1-☯为您千千万万遍☯优选,Europe,DE,Frankfurt,150,10.14
-82.115.30.115,56722,443,true,🇩🇪德国法兰克福_2-☯为您千千万万遍☯优选,Europe,DE,Frankfurt,155,9.44
-147.45.73.218,443,0,true,🇺🇸美国布法罗_3-☯为您千千万万遍☯优选,North America,US,Buffalo,0,8.10
-4.184.172.43,8443,443,true,🇩🇪德国法兰克福_4-☯为您千千万万遍☯优选,Europe,DE,Frankfurt,250,6.01
-152.67.131.41,443,443,true,🇩🇪德国法兰克福_5-☯为您千千万万遍☯优选,Europe,DE,Frankfurt,266,3.67
-84.8.152.150,443,0,true,🇺🇸美国洛杉矶_6-☯为您千千万万遍☯优选,North America,US,Los Angeles,2,3.42
-141.147.61.116,8443,443,true,🇩🇪德国法兰克福_7-☯为您千千万万遍☯优选,Europe,DE,Frankfurt,211,2.01
-138.3.249.67,443,0,true,🇺🇸美国洛杉矶_8-☯为您千千万万遍☯优选,North America,US,Los Angeles,0,1.79
-89.168.68.57,2053,443,true,🇩🇪德国法兰克福_9-☯为您千千万万遍☯优选,Europe,DE,Frankfurt,299,1.11
-3.67.6.244,2053,443,true,🇩🇪德国法兰克福_10-☯为您千千万万遍☯优选,Europe,DE,Frankfurt,271,0.88
+3.75.170.179,443,443,true,🇺🇸美国洛杉矶_1-☯为您千千万万遍☯优选,North America,US,Los Angeles,12,10.39
+144.21.42.32,443,443,true,🇨🇦加拿大多伦多_2-☯为您千千万万遍☯优选,North America,CA,Toronto,0,10.15
+129.159.198.248,443,443,true,🇨🇦加拿大多伦多_3-☯为您千千万万遍☯优选,North America,CA,Toronto,0,9.66
+141.148.240.72,443,443,true,🇺🇸美国洛杉矶_4-☯为您千千万万遍☯优选,North America,US,Los Angeles,0,9.52
+79.72.82.155,443,443,true,DFW_5-☯为您千千万万遍☯优选,North America,US,Dallas,0,8.84
+89.168.96.23,443,443,true,🇺🇸美国洛杉矶_6-☯为您千千万万遍☯优选,North America,US,Los Angeles,3,8.75
+3.78.125.180,443,443,true,🇺🇸美国布法罗_7-☯为您千千万万遍☯优选,North America,US,Buffalo,0,8.19
+130.162.255.95,443,443,true,DFW_8-☯为您千千万万遍☯优选,North America,US,Dallas,0,8.17
+18.153.244.138,443,443,true,🇺🇸美国洛杉矶_9-☯为您千千万万遍☯优选,North America,US,Los Angeles,0,8.16
+130.61.14.130,443,443,true,🇺🇸美国洛杉矶_10-☯为您千千万万遍☯优选,North America,US,Los Angeles,0,8.12

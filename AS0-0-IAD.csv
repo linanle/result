@@ -1,5 +1,11 @@
 ﻿IP地址,端口,回源端口,TLS,数据中心,地区,国家,城市,TCP延迟(ms),速度(MB/s)
-107.175.245.68,50242,443,true,🇺🇸美国华盛顿特区_1-☯为您千千万万遍☯优选,North America,US,Ashburn,286,1.02
-129.80.172.172,443,443,true,🇺🇸美国布法罗_2-☯为您千千万万遍☯优选,North America,US,Buffalo,2,0.00
-52.14.119.48,443,0,true,🇺🇸美国布法罗_3-☯为您千千万万遍☯优选,North America,US,Buffalo,2,0.00
-172.174.249.255,443,443,true,🇺🇸美国布法罗_4-☯为您千千万万遍☯优选,North America,US,Buffalo,1,0.00
+107.20.99.133,443,443,true,DFW_1-☯为您千千万万遍☯优选,North America,US,Dallas,3,9.24
+3.144.27.24,443,443,true,DFW_2-☯为您千千万万遍☯优选,North America,US,Dallas,0,8.96
+3.22.71.94,443,443,true,DFW_3-☯为您千千万万遍☯优选,North America,US,Dallas,0,8.86
+48.217.34.120,443,443,true,DFW_4-☯为您千千万万遍☯优选,North America,US,Dallas,2,8.34
+3.145.169.195,443,443,true,DFW_5-☯为您千千万万遍☯优选,North America,US,Dallas,2,8.30
+3.137.170.203,443,443,true,🇺🇸美国洛杉矶_6-☯为您千千万万遍☯优选,North America,US,Los Angeles,3,7.98
+4.255.56.137,443,443,true,🇺🇸美国洛杉矶_7-☯为您千千万万遍☯优选,North America,US,Los Angeles,3,7.93
+3.230.207.59,2095,443,true,🇺🇸美国华盛顿特区_8-☯为您千千万万遍☯优选,North America,US,Ashburn,263,7.88
+129.80.128.200,443,443,true,🇺🇸美国洛杉矶_9-☯为您千千万万遍☯优选,North America,US,Los Angeles,0,7.49
+184.73.20.34,443,443,true,🇺🇸美国洛杉矶_10-☯为您千千万万遍☯优选,North America,US,Los Angeles,3,7.02
