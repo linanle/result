@@ -1,11 +1,11 @@
 ﻿IP地址,端口,回源端口,TLS,数据中心,地区,国家,城市,TCP延迟(ms),速度(MB/s)
-107.20.99.133,443,443,true,DFW_1-☯为您千千万万遍☯优选,North America,US,Dallas,3,9.24
-3.144.27.24,443,443,true,DFW_2-☯为您千千万万遍☯优选,North America,US,Dallas,0,8.96
-3.22.71.94,443,443,true,DFW_3-☯为您千千万万遍☯优选,North America,US,Dallas,0,8.86
-48.217.34.120,443,443,true,DFW_4-☯为您千千万万遍☯优选,North America,US,Dallas,2,8.34
-3.145.169.195,443,443,true,DFW_5-☯为您千千万万遍☯优选,North America,US,Dallas,2,8.30
-3.137.170.203,443,443,true,🇺🇸美国洛杉矶_6-☯为您千千万万遍☯优选,North America,US,Los Angeles,3,7.98
-4.255.56.137,443,443,true,🇺🇸美国洛杉矶_7-☯为您千千万万遍☯优选,North America,US,Los Angeles,3,7.93
-3.230.207.59,2095,443,true,🇺🇸美国华盛顿特区_8-☯为您千千万万遍☯优选,North America,US,Ashburn,263,7.88
-129.80.128.200,443,443,true,🇺🇸美国洛杉矶_9-☯为您千千万万遍☯优选,North America,US,Los Angeles,0,7.49
-184.73.20.34,443,443,true,🇺🇸美国洛杉矶_10-☯为您千千万万遍☯优选,North America,US,Los Angeles,3,7.02
+143.47.104.153,443,443,true,DFW_1-☯为您千千万万遍☯优选,North America,US,Dallas,2,7.25
+18.211.101.20,443,443,true,DFW_2-☯为您千千万万遍☯优选,North America,US,Dallas,1,6.72
+129.159.84.71,443,443,true,🇺🇸美国布法罗_3-☯为您千千万万遍☯优选,North America,US,Buffalo,3,5.75
+3.230.207.59,2087,443,true,🇺🇸美国华盛顿特区_4-☯为您千千万万遍☯优选,North America,US,Ashburn,261,5.56
+3.146.65.122,2083,443,true,🇺🇸美国华盛顿特区_5-☯为您千千万万遍☯优选,North America,US,Ashburn,278,5.51
+54.172.226.111,2053,443,true,🇺🇸美国华盛顿特区_6-☯为您千千万万遍☯优选,North America,US,Ashburn,258,5.31
+44.211.139.183,443,443,true,🇺🇸美国布法罗_7-☯为您千千万万遍☯优选,North America,US,Buffalo,2,5.17
+3.218.234.33,443,443,true,🇺🇸美国布法罗_8-☯为您千千万万遍☯优选,North America,US,Buffalo,2,5.07
+54.144.181.145,443,443,true,🇺🇸美国布法罗_9-☯为您千千万万遍☯优选,North America,US,Buffalo,2,5.05
+3.89.126.247,443,443,true,🇺🇸美国布法罗_10-☯为您千千万万遍☯优选,North America,US,Buffalo,0,4.70

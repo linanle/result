@@ -1,11 +1,11 @@
 ﻿IP地址,端口,回源端口,TLS,数据中心,地区,国家,城市,TCP延迟(ms),速度(MB/s)
-140.245.81.166,443,443,true,🇺🇸美国洛杉矶_1-☯为您千千万万遍☯优选,North America,US,Los Angeles,0,9.22
-52.220.34.65,443,443,true,🇺🇸美国洛杉矶_2-☯为您千千万万遍☯优选,North America,US,Los Angeles,0,9.09
-43.156.40.79,443,443,true,DFW_3-☯为您千千万万遍☯优选,North America,US,Dallas,0,8.75
-158.101.75.63,443,0,true,🇨🇦加拿大多伦多_4-☯为您千千万万遍☯优选,North America,CA,Toronto,3,8.22
-8.222.171.109,443,443,true,DFW_5-☯为您千千万万遍☯优选,North America,US,Dallas,0,7.75
-52.74.101.26,443,443,true,DFW_6-☯为您千千万万遍☯优选,North America,US,Dallas,1,7.72
-47.245.81.74,443,0,true,🇨🇦加拿大多伦多_7-☯为您千千万万遍☯优选,North America,CA,Toronto,3,7.28
-138.3.214.143,443,443,true,DFW_8-☯为您千千万万遍☯优选,North America,US,Dallas,0,7.10
-8.219.202.219,443,443,true,DFW_9-☯为您千千万万遍☯优选,North America,US,Dallas,0,6.95
-193.122.106.37,443,0,true,🇺🇸美国布法罗_10-☯为您千千万万遍☯优选,North America,US,Buffalo,1,6.86
+54.255.246.123,2086,443,true,🇸🇬新加坡_1-☯为您千千万万遍☯优选,Asia Pacific,SG,Singapore,71,15.27
+64.110.89.234,443,443,true,🇺🇸美国洛杉矶_2-☯为您千千万万遍☯优选,North America,US,Los Angeles,0,9.70
+150.230.213.16,443,443,true,DFW_3-☯为您千千万万遍☯优选,North America,US,Dallas,0,8.14
+138.2.125.114,443,443,true,DFW_4-☯为您千千万万遍☯优选,North America,US,Dallas,0,7.98
+8.219.105.86,443,443,true,🇺🇸美国洛杉矶_5-☯为您千千万万遍☯优选,North America,US,Los Angeles,2,7.86
+47.245.98.74,443,443,true,DFW_6-☯为您千千万万遍☯优选,North America,US,Dallas,2,7.75
+8.219.49.195,443,443,true,🇺🇸美国洛杉矶_7-☯为您千千万万遍☯优选,North America,US,Los Angeles,0,7.61
+8.219.178.225,443,443,true,🇺🇸美国洛杉矶_8-☯为您千千万万遍☯优选,North America,US,Los Angeles,3,6.87
+8.222.136.247,443,443,true,DFW_9-☯为您千千万万遍☯优选,North America,US,Dallas,3,6.79
+8.219.122.83,443,443,true,DFW_10-☯为您千千万万遍☯优选,North America,US,Dallas,0,6.53
