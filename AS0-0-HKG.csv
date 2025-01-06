@@ -1,11 +1,11 @@
 ﻿IP地址,端口,回源端口,TLS,数据中心,地区,国家,城市,TCP延迟(ms),速度(MB/s)
-18.167.10.179,2053,80,false,🇭🇰中国香港_1-☯为您千千万万遍☯优选,Asia Pacific,HK,Hong Kong,47,20.01
-103.103.245.51,55496,443,true,🇭🇰中国香港_2-☯为您千千万万遍☯优选,Asia Pacific,HK,Hong Kong,40,19.97
-3.113.25.15,2086,443,true,🇭🇰中国香港_3-☯为您千千万万遍☯优选,Asia Pacific,HK,Hong Kong,48,17.40
-38.207.132.219,27051,443,true,🇭🇰中国香港_4-☯为您千千万万遍☯优选,Asia Pacific,HK,Hong Kong,195,15.48
-38.207.132.219,27033,443,true,🇭🇰中国香港_5-☯为您千千万万遍☯优选,Asia Pacific,HK,Hong Kong,202,9.63
-38.207.132.219,40722,443,true,🇭🇰中国香港_6-☯为您千千万万遍☯优选,Asia Pacific,HK,Hong Kong,193,9.40
-38.207.132.219,27043,443,true,🇭🇰中国香港_7-☯为您千千万万遍☯优选,Asia Pacific,HK,Hong Kong,43,8.67
-38.207.132.219,27050,443,true,🇭🇰中国香港_8-☯为您千千万万遍☯优选,Asia Pacific,HK,Hong Kong,43,8.61
-38.207.132.219,27061,443,true,🇭🇰中国香港_9-☯为您千千万万遍☯优选,Asia Pacific,HK,Hong Kong,199,8.23
-45.87.102.122,444,443,true,🇭🇰中国香港_10-☯为您千千万万遍☯优选,Asia Pacific,HK,Hong Kong,224,5.90
+206.237.0.221,35690,443,true,🇭🇰中国香港_1-☯为您千千万万遍☯优选,Asia Pacific,HK,Hong Kong,42,28.31
+3.112.26.222,2086,443,true,🇭🇰中国香港_2-☯为您千千万万遍☯优选,Asia Pacific,HK,Hong Kong,54,25.81
+141.11.149.48,35333,443,true,🇭🇰中国香港_3-☯为您千千万万遍☯优选,Asia Pacific,HK,Hong Kong,42,18.14
+103.103.245.51,16118,443,true,🇭🇰中国香港_4-☯为您千千万万遍☯优选,Asia Pacific,HK,Hong Kong,43,17.90
+45.87.103.154,52001,443,true,🇭🇰中国香港_5-☯为您千千万万遍☯优选,Asia Pacific,HK,Hong Kong,71,16.78
+43.198.87.91,443,443,true,🇺🇸美国洛杉矶_6-☯为您千千万万遍☯优选,North America,US,Los Angeles,1,7.50
+154.201.93.212,19443,443,true,🇭🇰中国香港_7-☯为您千千万万遍☯优选,Asia Pacific,HK,Hong Kong,90,7.48
+58.176.95.46,443,443,true,🇺🇸美国布法罗_8-☯为您千千万万遍☯优选,North America,US,Buffalo,1,5.01
+47.243.172.217,443,443,true,🇺🇸美国布法罗_9-☯为您千千万万遍☯优选,North America,US,Buffalo,1,4.36
+8.218.120.79,443,443,true,🇺🇸美国布法罗_10-☯为您千千万万遍☯优选,North America,US,Buffalo,1,3.94

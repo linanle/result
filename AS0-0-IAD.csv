@@ -1,11 +1,11 @@
 ﻿IP地址,端口,回源端口,TLS,数据中心,地区,国家,城市,TCP延迟(ms),速度(MB/s)
-143.47.104.153,443,443,true,DFW_1-☯为您千千万万遍☯优选,North America,US,Dallas,2,7.25
-18.211.101.20,443,443,true,DFW_2-☯为您千千万万遍☯优选,North America,US,Dallas,1,6.72
-129.159.84.71,443,443,true,🇺🇸美国布法罗_3-☯为您千千万万遍☯优选,North America,US,Buffalo,3,5.75
-3.230.207.59,2087,443,true,🇺🇸美国华盛顿特区_4-☯为您千千万万遍☯优选,North America,US,Ashburn,261,5.56
-3.146.65.122,2083,443,true,🇺🇸美国华盛顿特区_5-☯为您千千万万遍☯优选,North America,US,Ashburn,278,5.51
-54.172.226.111,2053,443,true,🇺🇸美国华盛顿特区_6-☯为您千千万万遍☯优选,North America,US,Ashburn,258,5.31
-44.211.139.183,443,443,true,🇺🇸美国布法罗_7-☯为您千千万万遍☯优选,North America,US,Buffalo,2,5.17
-3.218.234.33,443,443,true,🇺🇸美国布法罗_8-☯为您千千万万遍☯优选,North America,US,Buffalo,2,5.07
-54.144.181.145,443,443,true,🇺🇸美国布法罗_9-☯为您千千万万遍☯优选,North America,US,Buffalo,2,5.05
-3.89.126.247,443,443,true,🇺🇸美国布法罗_10-☯为您千千万万遍☯优选,North America,US,Buffalo,0,4.70
+34.230.210.239,443,443,true,🇺🇸美国布法罗_1-☯为您千千万万遍☯优选,North America,US,Buffalo,2,10.38
+44.203.11.156,443,443,true,🇺🇸美国布法罗_2-☯为您千千万万遍☯优选,North America,US,Buffalo,1,8.06
+3.230.207.59,2095,443,true,🇺🇸美国华盛顿特区_3-☯为您千千万万遍☯优选,North America,US,Ashburn,258,5.97
+3.230.207.59,2087,443,true,🇺🇸美国华盛顿特区_4-☯为您千千万万遍☯优选,North America,US,Ashburn,270,5.42
+54.234.245.49,2083,443,true,🇺🇸美国华盛顿特区_5-☯为您千千万万遍☯优选,North America,US,Ashburn,263,5.34
+3.146.65.122,2083,443,true,🇺🇸美国华盛顿特区_6-☯为您千千万万遍☯优选,North America,US,Ashburn,270,5.28
+3.230.207.59,8443,443,true,🇺🇸美国华盛顿特区_7-☯为您千千万万遍☯优选,North America,US,Ashburn,257,5.11
+47.253.206.29,443,443,true,🇺🇸美国布法罗_8-☯为您千千万万遍☯优选,North America,US,Buffalo,1,4.89
+54.224.42.142,8443,443,true,🇺🇸美国华盛顿特区_9-☯为您千千万万遍☯优选,North America,US,Ashburn,271,4.61
+52.14.241.75,443,443,true,🇺🇸美国布法罗_10-☯为您千千万万遍☯优选,North America,US,Buffalo,3,4.56

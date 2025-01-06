@@ -1,11 +1,11 @@
 ﻿IP地址,端口,回源端口,TLS,数据中心,地区,国家,城市,TCP延迟(ms),速度(MB/s)
-35.85.36.239,443,443,true,🇺🇸美国洛杉矶_1-☯为您千千万万遍☯优选,North America,US,Los Angeles,3,11.29
-54.245.158.32,443,443,true,🇺🇸美国洛杉矶_2-☯为您千千万万遍☯优选,North America,US,Los Angeles,0,8.78
-35.87.202.138,8443,443,true,🇺🇸美国西雅图_3-☯为您千千万万遍☯优选,North America,US,Seattle,213,8.06
-34.215.169.157,443,443,true,🇺🇸美国洛杉矶_4-☯为您千千万万遍☯优选,North America,US,Los Angeles,0,7.83
-34.216.225.25,443,443,true,🇺🇸美国洛杉矶_5-☯为您千千万万遍☯优选,North America,US,Los Angeles,1,7.72
-52.89.100.174,443,443,true,DFW_6-☯为您千千万万遍☯优选,North America,US,Dallas,3,7.59
-35.91.196.131,8443,443,true,🇺🇸美国西雅图_7-☯为您千千万万遍☯优选,North America,US,Seattle,209,7.32
-35.92.59.200,8443,443,true,🇺🇸美国西雅图_8-☯为您千千万万遍☯优选,North America,US,Seattle,214,7.01
-34.220.159.138,8443,443,true,🇺🇸美国西雅图_9-☯为您千千万万遍☯优选,North America,US,Seattle,215,7.00
-35.90.246.86,443,443,true,DFW_10-☯为您千千万万遍☯优选,North America,US,Dallas,0,7.00
+34.219.18.231,443,443,true,DFW_1-☯为您千千万万遍☯优选,North America,US,Dallas,0,9.12
+34.220.159.138,8443,443,true,🇺🇸美国西雅图_2-☯为您千千万万遍☯优选,North America,US,Seattle,231,8.49
+34.215.169.157,443,443,true,🇺🇸美国西雅图_3-☯为您千千万万遍☯优选,North America,US,Seattle,204,8.21
+34.82.76.253,443,443,true,🇨🇦加拿大多伦多_4-☯为您千千万万遍☯优选,North America,CA,Toronto,10,8.00
+35.90.246.86,443,443,true,🇺🇸美国西雅图_5-☯为您千千万万遍☯优选,North America,US,Seattle,228,7.91
+35.85.36.239,443,443,true,🇺🇸美国西雅图_6-☯为您千千万万遍☯优选,North America,US,Seattle,213,7.80
+34.216.225.25,443,443,true,🇺🇸美国西雅图_7-☯为您千千万万遍☯优选,North America,US,Seattle,228,7.77
+18.246.44.84,443,443,true,DFW_8-☯为您千千万万遍☯优选,North America,US,Dallas,0,7.58
+44.245.152.249,8443,443,true,🇺🇸美国西雅图_9-☯为您千千万万遍☯优选,North America,US,Seattle,222,7.53
+52.89.100.174,443,443,true,🇺🇸美国西雅图_10-☯为您千千万万遍☯优选,North America,US,Seattle,218,7.26
