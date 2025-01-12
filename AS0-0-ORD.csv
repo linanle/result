@@ -1,11 +1,11 @@
 ﻿IP地址,端口,回源端口,TLS,数据中心,地区,国家,城市,TCP延迟(ms),速度(MB/s)
-67.226.222.26,80,443,true,🇺🇸美国洛杉矶_1-☯为您千千万万遍☯优选,North America,US,Los Angeles,3,9.89
-67.226.222.52,80,443,true,🇺🇸美国布法罗_2-☯为您千千万万遍☯优选,North America,US,Buffalo,3,8.66
-204.110.223.151,80,443,true,🇺🇸美国布法罗_3-☯为您千千万万遍☯优选,North America,US,Buffalo,2,8.27
-204.110.223.222,80,443,true,🇺🇸美国洛杉矶_4-☯为您千千万万遍☯优选,North America,US,Los Angeles,1,8.03
-20.125.213.121,8443,443,true,🇺🇸美国芝加哥_5-☯为您千千万万遍☯优选,North America,US,Chicago,194,7.68
-20.125.214.184,8443,443,true,🇺🇸美国芝加哥_6-☯为您千千万万遍☯优选,North America,US,Chicago,188,6.38
-67.226.222.225,80,443,true,🇨🇦加拿大多伦多_7-☯为您千千万万遍☯优选,North America,CA,Toronto,0,6.29
-20.125.214.4,8443,443,true,🇺🇸美国芝加哥_8-☯为您千千万万遍☯优选,North America,US,Chicago,189,6.29
-204.110.223.176,80,443,true,🇨🇦加拿大多伦多_9-☯为您千千万万遍☯优选,North America,CA,Toronto,4,5.14
-67.226.222.73,80,443,true,🇺🇸美国洛杉矶_10-☯为您千千万万遍☯优选,North America,US,Los Angeles,0,5.07
+23.94.136.126,8080,443,true,🇺🇸美国芝加哥_1-☯为您千千万万遍☯优选,North America,US,Chicago,269,5.05
+20.125.213.152,8443,443,true,🇺🇸美国芝加哥_2-☯为您千千万万遍☯优选,North America,US,Chicago,188,2.37
+164.152.26.70,2086,443,true,🇺🇸美国芝加哥_3-☯为您千千万万遍☯优选,North America,US,Chicago,250,2.14
+3.141.223.191,2053,443,true,🇺🇸美国芝加哥_4-☯为您千千万万遍☯优选,North America,US,Chicago,276,1.65
+20.125.213.121,8443,443,true,🇺🇸美国芝加哥_5-☯为您千千万万遍☯优选,North America,US,Chicago,194,1.64
+20.125.214.4,8443,443,true,🇺🇸美国芝加哥_6-☯为您千千万万遍☯优选,North America,US,Chicago,195,1.47
+164.152.26.70,2052,443,true,🇺🇸美国芝加哥_7-☯为您千千万万遍☯优选,North America,US,Chicago,246,1.42
+20.125.214.184,8443,443,true,🇺🇸美国芝加哥_8-☯为您千千万万遍☯优选,North America,US,Chicago,200,1.33
+3.141.223.191,8443,443,true,🇺🇸美国芝加哥_9-☯为您千千万万遍☯优选,North America,US,Chicago,276,1.25
+20.25.205.37,2053,443,true,🇺🇸美国芝加哥_10-☯为您千千万万遍☯优选,North America,US,Chicago,196,0.98
