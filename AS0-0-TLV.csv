@@ -1,0 +1,4 @@
+﻿IP地址,端口,回源端口,TLS,数据中心,地区,国家,城市,TCP延迟(ms),速度(MB/s)
+129.159.129.107,8443,443,true,TLV_1-☯为您千千万万遍☯优选,Middle East,IL,Tel Aviv,326,1.29
+129.159.143.171,2053,443,true,TLV_2-☯为您千千万万遍☯优选,Middle East,IL,Tel Aviv,330,0.17
+129.159.143.171,8443,443,true,TLV_3-☯为您千千万万遍☯优选,Middle East,IL,Tel Aviv,349,0.06

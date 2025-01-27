@@ -1,2 +1,6 @@
 ﻿IP地址,端口,回源端口,TLS,数据中心,地区,国家,城市,TCP延迟(ms),速度(MB/s)
-13.229.173.16,8443,443,true,🇸🇬新加坡_1-☯为您千千万万遍☯优选,Asia Pacific,SG,Singapore,90,1.22
+8.219.126.137,491,443,true,🇸🇬新加坡_1-☯为您千千万万遍☯优选,Asia Pacific,SG,Singapore,75,22.75
+123.57.212.240,80,80,false,🇸🇬新加坡_2-☯为您千千万万遍☯优选,Asia Pacific,SG,Singapore,43,11.40
+47.237.10.53,4443,443,true,🇸🇬新加坡_3-☯为您千千万万遍☯优选,Asia Pacific,SG,Singapore,225,3.63
+8.219.207.109,12228,443,true,🇸🇬新加坡_4-☯为您千千万万遍☯优选,Asia Pacific,SG,Singapore,103,1.39
+43.128.95.110,40029,443,true,🇸🇬新加坡_5-☯为您千千万万遍☯优选,Asia Pacific,SG,Singapore,81,0.14
