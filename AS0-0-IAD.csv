@@ -1,11 +1,11 @@
 ﻿IP地址,端口,回源端口,TLS,数据中心,地区,国家,城市,TCP延迟(ms),速度(MB/s)
-120.55.183.176,80,80,false,🇺🇸美国华盛顿特区_1-☯为您千千万万遍☯优选,North America,US,Ashburn,19,11.48
-120.26.3.169,80,80,false,🇺🇸美国华盛顿特区_2-☯为您千千万万遍☯优选,North America,US,Ashburn,18,10.36
-3.230.207.59,2087,443,true,🇺🇸美国华盛顿特区_3-☯为您千千万万遍☯优选,North America,US,Ashburn,257,9.16
-44.217.235.114,8443,443,true,🇺🇸美国华盛顿特区_4-☯为您千千万万遍☯优选,North America,US,Ashburn,272,6.21
-54.166.213.213,2053,443,true,🇺🇸美国华盛顿特区_5-☯为您千千万万遍☯优选,North America,US,Ashburn,265,5.64
-3.230.207.59,2095,443,true,🇺🇸美国华盛顿特区_6-☯为您千千万万遍☯优选,North America,US,Ashburn,261,5.50
-3.15.147.151,2083,443,true,🇺🇸美国华盛顿特区_7-☯为您千千万万遍☯优选,North America,US,Ashburn,277,5.31
-3.88.110.210,2053,443,true,🇺🇸美国华盛顿特区_8-☯为您千千万万遍☯优选,North America,US,Ashburn,225,5.31
-54.172.226.111,2053,443,true,🇺🇸美国华盛顿特区_9-☯为您千千万万遍☯优选,North America,US,Ashburn,235,4.97
-98.82.153.6,2096,443,true,🇺🇸美国华盛顿特区_10-☯为您千千万万遍☯优选,North America,US,Ashburn,237,4.87
+120.26.3.169,80,80,false,🇺🇸美国华盛顿特区_1-☯为您千千万万遍☯优选,North America,US,Ashburn,18,11.58
+120.55.183.176,80,80,false,🇺🇸美国华盛顿特区_2-☯为您千千万万遍☯优选,North America,US,Ashburn,17,10.89
+172.245.232.173,443,443,true,🇺🇸美国洛杉矶_3-☯为您千千万万遍☯优选,North America,US,Los Angeles,1,6.75
+54.167.43.59,443,443,true,🇺🇸美国洛杉矶_4-☯为您千千万万遍☯优选,North America,US,Los Angeles,1,6.24
+44.202.3.237,443,443,true,🇺🇸美国洛杉矶_5-☯为您千千万万遍☯优选,North America,US,Los Angeles,1,6.20
+198.46.217.198,443,443,true,🇺🇸美国洛杉矶_6-☯为您千千万万遍☯优选,North America,US,Los Angeles,1,6.20
+3.88.110.210,2053,443,true,🇺🇸美国华盛顿特区_7-☯为您千千万万遍☯优选,North America,US,Ashburn,255,5.90
+54.236.212.166,2053,443,true,🇺🇸美国华盛顿特区_8-☯为您千千万万遍☯优选,North America,US,Ashburn,226,5.69
+52.55.146.127,443,443,true,🇺🇸美国洛杉矶_9-☯为您千千万万遍☯优选,North America,US,Los Angeles,1,5.27
+107.172.211.182,2053,443,true,🇺🇸美国华盛顿特区_10-☯为您千千万万遍☯优选,North America,US,Ashburn,273,5.20
