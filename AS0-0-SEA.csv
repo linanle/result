@@ -1,8 +1,12 @@
-﻿IP地址,端口,回源端口,TLS,数据中心,地区,国家,城市,TCP延迟(ms),速度(MB/s)
-47.79.34.47,443,443,true,🇺🇸美国洛杉矶_1-☯为您千千万万遍☯优选,North America,US,Los Angeles,0,7.81
-35.197.23.75,443,443,true,DFW_2-☯为您千千万万遍☯优选,North America,US,Dallas,1,5.08
-35.212.243.225,8081,443,true,🇺🇸美国西雅图_3-☯为您千千万万遍☯优选,North America,US,Seattle,220,4.82
-35.230.79.26,443,443,true,🇺🇸美国洛杉矶_4-☯为您千千万万遍☯优选,North America,US,Los Angeles,1,2.69
-40.90.197.118,443,443,true,🇺🇸美国洛杉矶_5-☯为您千千万万遍☯优选,North America,US,Los Angeles,0,2.17
-23.94.43.102,8080,443,true,🇺🇸美国西雅图_6-☯为您千千万万遍☯优选,North America,US,Seattle,305,0.04
-75.127.13.251,10020,443,true,🇺🇸美国西雅图_7-☯为您千千万万遍☯优选,North America,US,Seattle,260,0.00
+﻿IP地址,端口,回源端口,TLS,数据中心,地区,国家,城市,TCP延迟(ms)
+192.3.250.66,8443,443,true,SEA,North America,US,Seattle,270
+107.173.244.150,8181,443,true,SEA,North America,US,Seattle,281
+35.197.23.75,443,443,true,SEA,North America,US,Seattle,201
+47.91.18.127,443,443,true,ORD,North America,US,Chicago,1
+35.247.124.181,443,443,true,DFW,North America,US,Dallas,0
+23.94.43.51,443,443,true,LAX,North America,US,Los Angeles,0
+34.83.245.149,443,443,true,DFW,North America,US,Dallas,0
+34.82.76.253,443,443,true,ORD,North America,US,Chicago,0
+34.105.49.234,443,443,true,LAX,North America,US,Los Angeles,0
+23.94.43.102,8080,443,true,SEA,North America,US,Seattle,288
+40.90.197.118,443,443,true,BUF,North America,US,Buffalo,1
