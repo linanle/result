@@ -1,11 +1,11 @@
 ﻿IP地址,端口,回源端口,TLS,数据中心,地区,国家,城市,TCP延迟(ms),速度(MB/s)
-123.57.212.240,80,80,false,🇸🇬新加坡_1-☯为您千千万万遍☯优选,Asia Pacific,SG,Singapore,42,23.23
-13.229.72.179,42235,443,true,🇸🇬新加坡_2-☯为您千千万万遍☯优选,Asia Pacific,SG,Singapore,90,16.42
-8.222.132.249,10036,443,true,🇸🇬新加坡_3-☯为您千千万万遍☯优选,Asia Pacific,SG,Singapore,237,9.56
-52.77.97.162,443,443,true,🇺🇸美国洛杉矶_4-☯为您千千万万遍☯优选,North America,US,Los Angeles,3,8.01
-13.250.14.76,443,443,true,🇺🇸美国洛杉矶_5-☯为您千千万万遍☯优选,North America,US,Los Angeles,0,7.80
-8.222.149.94,8832,443,true,🇸🇬新加坡_6-☯为您千千万万遍☯优选,Asia Pacific,SG,Singapore,209,6.99
-13.228.155.72,443,443,true,🇺🇸美国芝加哥_7-☯为您千千万万遍☯优选,North America,US,Chicago,2,6.92
-43.156.181.203,443,443,true,🇺🇸美国洛杉矶_8-☯为您千千万万遍☯优选,North America,US,Los Angeles,1,6.22
-129.154.207.162,443,443,true,🇺🇸美国洛杉矶_9-☯为您千千万万遍☯优选,North America,US,Los Angeles,3,6.22
-8.222.165.104,443,443,true,🇺🇸美国洛杉矶_10-☯为您千千万万遍☯优选,North America,US,Los Angeles,4,5.85
+123.57.222.190,80,80,false,🇸🇬新加坡_1-☯为您千千万万遍☯优选,Asia Pacific,SG,Singapore,41,23.05
+3.1.116.161,2053,443,true,🇸🇬新加坡_2-☯为您千千万万遍☯优选,Asia Pacific,SG,Singapore,72,22.59
+8.219.126.137,491,443,true,🇸🇬新加坡_3-☯为您千千万万遍☯优选,Asia Pacific,SG,Singapore,84,18.26
+43.156.181.203,443,443,true,🇸🇬新加坡_4-☯为您千千万万遍☯优选,Asia Pacific,SG,Singapore,77,18.14
+123.57.212.240,80,80,false,🇸🇬新加坡_5-☯为您千千万万遍☯优选,Asia Pacific,SG,Singapore,40,17.88
+52.220.205.101,9997,443,true,🇸🇬新加坡_6-☯为您千千万万遍☯优选,Asia Pacific,SG,Singapore,76,15.46
+52.187.74.27,2222,2087,true,🇸🇬新加坡_7-☯为您千千万万遍☯优选,Asia Pacific,SG,Singapore,77,14.54
+13.229.72.179,42235,443,true,🇸🇬新加坡_8-☯为您千千万万遍☯优选,Asia Pacific,SG,Singapore,75,12.92
+8.222.132.249,10036,443,true,🇸🇬新加坡_9-☯为您千千万万遍☯优选,Asia Pacific,SG,Singapore,238,6.27
+8.222.165.104,443,443,true,🇸🇬新加坡_10-☯为您千千万万遍☯优选,Asia Pacific,SG,Singapore,237,6.11

@@ -1,68 +1,11 @@
 ﻿IP地址,端口,回源端口,TLS,数据中心,地区,国家,城市,TCP延迟(ms),速度(MB/s)
-35.215.157.144,44333,443,true,HKG,Asia Pacific,HK,Hong Kong,47,32.31
-103.235.18.96,12317,443,true,HKG,Asia Pacific,HK,Hong Kong,46,26.32
-149.104.24.14,8443,443,true,HKG,Asia Pacific,HK,Hong Kong,50,22.93
-206.237.1.59,11563,443,true,HKG,Asia Pacific,HK,Hong Kong,44,22.85
-103.103.245.188,30001,443,true,HKG,Asia Pacific,HK,Hong Kong,42,22.07
-35.220.172.12,8083,443,true,HKG,Asia Pacific,HK,Hong Kong,50,21.19
-138.2.113.148,888,80,false,HKG,Asia Pacific,HK,Hong Kong,90,20.86
-141.11.79.31,8080,443,true,HKG,Asia Pacific,HK,Hong Kong,43,19.93
-42.200.111.106,12351,8443,true,HKG,Asia Pacific,HK,Hong Kong,50,14.40
-38.207.129.34,35333,443,true,HKG,Asia Pacific,HK,Hong Kong,144,11.49
-83.229.123.36,8443,443,true,HKG,Asia Pacific,HK,Hong Kong,47,11.08
-8.210.213.159,587,443,true,BUF,North America,US,Buffalo,0,9.33
-43.128.26.74,443,443,true,BUF,North America,US,Buffalo,0,8.44
-47.76.215.14,587,443,true,ORD,North America,US,Chicago,1,8.32
-47.238.211.186,587,443,true,DFW,North America,US,Dallas,1,8.13
-8.217.244.253,587,443,true,LAX,North America,US,Los Angeles,0,7.93
-103.117.100.147,443,443,true,BUF,North America,US,Buffalo,1,5.97
-8.223.15.4,443,443,true,ORD,North America,US,Chicago,1,5.88
-47.76.245.221,587,443,true,BUF,North America,US,Buffalo,2,5.78
-47.239.1.168,443,443,true,ORD,North America,US,Chicago,0,5.55
-38.207.172.42,443,443,true,DFW,North America,US,Dallas,1,4.97
-47.239.68.152,587,443,true,ORD,North America,US,Chicago,1,4.64
-8.218.69.41,9998,443,true,HKG,Asia Pacific,HK,Hong Kong,43,4.28
-8.212.48.236,443,443,true,ORD,North America,US,Chicago,1,3.93
-43.155.71.120,448,443,true,HKG,Asia Pacific,HK,Hong Kong,45,3.81
-154.88.31.66,587,443,true,ORD,North America,US,Chicago,2,3.73
-47.242.209.195,587,443,true,ORD,North America,US,Chicago,0,3.61
-219.76.13.167,443,443,true,DFW,North America,US,Dallas,1,3.60
-219.76.13.180,443,443,true,LAX,North America,US,Los Angeles,0,3.53
-43.155.71.120,3388,443,true,HKG,Asia Pacific,HK,Hong Kong,49,3.42
-58.152.99.18,36022,443,true,HKG,Asia Pacific,HK,Hong Kong,81,2.89
-47.238.236.147,587,443,true,DFW,North America,US,Dallas,0,2.69
-103.112.185.138,587,443,true,HKG,Asia Pacific,HK,Hong Kong,52,2.64
-206.237.22.91,449,443,true,HKG,Asia Pacific,HK,Hong Kong,45,2.11
-206.237.22.91,548,443,true,HKG,Asia Pacific,HK,Hong Kong,51,1.47
-219.76.176.105,12522,443,true,HKG,Asia Pacific,HK,Hong Kong,71,1.47
-219.76.176.105,37422,443,true,HKG,Asia Pacific,HK,Hong Kong,72,1.26
-219.76.176.105,12537,443,true,HKG,Asia Pacific,HK,Hong Kong,128,1.21
-8.217.26.56,587,443,true,ORD,North America,US,Chicago,0,1.12
-219.76.176.105,19022,443,true,HKG,Asia Pacific,HK,Hong Kong,130,1.10
-47.76.130.197,60001,443,true,HKG,Asia Pacific,HK,Hong Kong,43,1.08
-47.238.66.74,587,443,true,DFW,North America,US,Dallas,0,1.05
-47.83.16.118,36622,80,false,HKG,Asia Pacific,HK,Hong Kong,50,0.98
-206.237.13.162,443,443,true,LAX,North America,US,Los Angeles,0,0.96
-47.238.29.180,587,443,true,DFW,North America,US,Dallas,0,0.69
-47.236.251.178,443,443,true,LAX,North America,US,Los Angeles,1,0.69
-219.76.176.105,12331,443,true,HKG,Asia Pacific,HK,Hong Kong,127,0.53
-202.181.27.218,14526,443,true,HKG,Asia Pacific,HK,Hong Kong,203,0.51
-8.218.184.0,587,443,true,DFW,North America,US,Dallas,0,0.50
-219.76.176.105,12266,443,true,HKG,Asia Pacific,HK,Hong Kong,122,0.47
-219.76.176.105,39001,443,true,HKG,Asia Pacific,HK,Hong Kong,122,0.37
-219.76.176.105,12506,443,true,HKG,Asia Pacific,HK,Hong Kong,128,0.36
-219.76.176.105,30106,443,true,HKG,Asia Pacific,HK,Hong Kong,124,0.36
-219.76.176.105,12203,443,true,HKG,Asia Pacific,HK,Hong Kong,128,0.36
-172.93.165.228,443,443,true,DFW,North America,US,Dallas,0,0.34
-47.236.106.19,443,443,true,LAX,North America,US,Los Angeles,0,0.28
-154.64.251.19,443,443,true,DFW,North America,US,Dallas,0,0.21
-165.154.43.92,35184,443,true,HKG,Asia Pacific,HK,Hong Kong,41,0.12
-165.154.43.92,35181,443,true,HKG,Asia Pacific,HK,Hong Kong,43,0.11
-165.154.43.92,35187,443,true,SJC,North America,US,San Jose,45,0.11
-219.78.210.51,10030,443,true,HKG,Asia Pacific,HK,Hong Kong,84,0.07
-8.210.142.146,12346,443,true,HKG,Asia Pacific,HK,Hong Kong,74,0.06
-8.210.96.197,12902,443,true,HKG,Asia Pacific,HK,Hong Kong,72,0.04
-141.11.216.39,8080,443,true,HKG,Asia Pacific,HK,Hong Kong,44,0.02
-103.30.76.210,444,443,true,HKG,Asia Pacific,HK,Hong Kong,45,0.01
-141.11.175.133,8080,443,true,HKG,Asia Pacific,HK,Hong Kong,45,0.01
-83.147.3.165,8080,443,true,HKG,Asia Pacific,HK,Hong Kong,50,0.01
+47.242.66.212,8444,443,true,🇭🇰中国香港_1-☯为您千千万万遍☯优选,Asia Pacific,HK,Hong Kong,49,34.97
+149.104.24.14,8443,443,true,🇭🇰中国香港_2-☯为您千千万万遍☯优选,Asia Pacific,HK,Hong Kong,41,25.49
+206.237.1.59,11563,443,true,🇭🇰中国香港_3-☯为您千千万万遍☯优选,Asia Pacific,HK,Hong Kong,44,24.86
+47.76.245.221,587,443,true,🇭🇰中国香港_4-☯为您千千万万遍☯优选,Asia Pacific,HK,Hong Kong,50,23.93
+103.148.72.147,1443,443,true,🇭🇰中国香港_5-☯为您千千万万遍☯优选,Asia Pacific,HK,Hong Kong,71,21.07
+8.223.15.4,443,443,true,🇭🇰中国香港_6-☯为您千千万万遍☯优选,Asia Pacific,HK,Hong Kong,43,18.91
+42.200.111.106,12351,8443,true,🇭🇰中国香港_7-☯为您千千万万遍☯优选,Asia Pacific,HK,Hong Kong,62,14.77
+219.79.67.70,9000,443,true,🇭🇰中国香港_8-☯为您千千万万遍☯优选,Asia Pacific,HK,Hong Kong,54,13.32
+83.229.123.36,8443,443,true,🇭🇰中国香港_9-☯为您千千万万遍☯优选,Asia Pacific,HK,Hong Kong,44,11.09
+103.30.76.216,2083,2086,false,🇭🇰中国香港_10-☯为您千千万万遍☯优选,Asia Pacific,HK,Hong Kong,51,10.65
