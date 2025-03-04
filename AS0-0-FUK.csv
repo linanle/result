@@ -1,11 +1,11 @@
 ﻿IP地址,端口,回源端口,TLS,数据中心,地区,国家,城市,TCP延迟(ms),速度(MB/s)
-220.77.188.107,21296,80,false,FUK_1-☯为您千千万万遍☯优选,Asia Pacific,JP,Fukuoka,93,9.97
-59.12.232.18,21281,80,false,FUK_2-☯为您千千万万遍☯优选,Asia Pacific,JP,Fukuoka,112,9.72
-121.160.141.47,11210,80,false,FUK_3-☯为您千千万万遍☯优选,Asia Pacific,JP,Fukuoka,106,9.72
-59.19.24.168,12209,443,true,FUK_4-☯为您千千万万遍☯优选,Asia Pacific,JP,Fukuoka,89,9.69
-121.175.182.146,21278,443,true,FUK_5-☯为您千千万万遍☯优选,Asia Pacific,JP,Fukuoka,86,9.66
-183.104.82.130,12520,443,true,FUK_6-☯为您千千万万遍☯优选,Asia Pacific,JP,Fukuoka,94,9.65
-118.35.128.133,12533,443,true,FUK_7-☯为您千千万万遍☯优选,Asia Pacific,JP,Fukuoka,107,9.56
-121.175.63.10,16026,443,true,FUK_8-☯为您千千万万遍☯优选,Asia Pacific,JP,Fukuoka,98,9.56
-119.201.54.183,12416,443,true,FUK_9-☯为您千千万万遍☯优选,Asia Pacific,JP,Fukuoka,95,9.54
-210.217.9.130,12088,443,true,FUK_10-☯为您千千万万遍☯优选,Asia Pacific,JP,Fukuoka,102,9.44
+112.187.59.195,12178,443,true,FUK_1-☯为您千千万万遍☯优选,Asia Pacific,JP,Fukuoka,95,9.73
+118.34.233.111,11001,443,true,FUK_2-☯为您千千万万遍☯优选,Asia Pacific,JP,Fukuoka,103,9.57
+61.73.189.16,13333,443,true,FUK_3-☯为您千千万万遍☯优选,Asia Pacific,JP,Fukuoka,101,9.48
+203.243.50.83,39122,443,true,FUK_4-☯为您千千万万遍☯优选,Asia Pacific,JP,Fukuoka,99,9.45
+59.21.167.152,21281,443,true,FUK_5-☯为您千千万万遍☯优选,Asia Pacific,JP,Fukuoka,100,9.44
+121.152.127.130,12283,443,true,FUK_6-☯为您千千万万遍☯优选,Asia Pacific,JP,Fukuoka,105,9.44
+121.175.212.127,16070,443,true,FUK_7-☯为您千千万万遍☯优选,Asia Pacific,JP,Fukuoka,95,9.43
+211.199.127.208,18443,443,true,FUK_8-☯为您千千万万遍☯优选,Asia Pacific,JP,Fukuoka,101,9.43
+169.211.205.20,17773,443,true,FUK_9-☯为您千千万万遍☯优选,Asia Pacific,JP,Fukuoka,95,9.42
+121.178.230.168,12132,443,true,FUK_10-☯为您千千万万遍☯优选,Asia Pacific,JP,Fukuoka,105,9.39
