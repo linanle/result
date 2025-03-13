@@ -1,11 +1,11 @@
 ﻿IP地址,端口,回源端口,TLS,数据中心,地区,国家,城市,TCP延迟(ms),速度(MB/s)
-34.82.76.253,443,443,true,🇺🇸美国西雅图_1-☯为您千千万万遍☯优选,North America,US,Seattle,208,8.07
-35.212.159.231,5432,443,true,🇺🇸美国西雅图_2-☯为您千千万万遍☯优选,North America,US,Seattle,217,7.97
-14.53.187.234,12384,443,true,SJC_3-☯为您千千万万遍☯优选,North America,US,San Jose,221,3.77
-14.56.138.154,14024,443,true,SJC_4-☯为您千千万万遍☯优选,North America,US,San Jose,245,2.69
-34.168.157.106,443,443,true,🇺🇸美国西雅图_5-☯为您千千万万遍☯优选,North America,US,Seattle,0,0.04
-35.212.151.14,443,443,true,🇺🇸美国西雅图_6-☯为您千千万万遍☯优选,North America,US,Seattle,0,0.04
-35.212.200.199,443,443,true,🇺🇸美国西雅图_7-☯为您千千万万遍☯优选,North America,US,Seattle,1,0.04
-107.172.180.56,443,443,true,🇺🇸美国西雅图_8-☯为您千千万万遍☯优选,North America,US,Seattle,0,0.04
-35.212.176.84,443,443,true,🇺🇸美国西雅图_9-☯为您千千万万遍☯优选,North America,US,Seattle,0,0.04
-35.197.23.75,443,443,true,🇺🇸美国西雅图_10-☯为您千千万万遍☯优选,North America,US,Seattle,0,0.04
+8.210.238.107,452,2095,false,🇺🇸美国西雅图_1-☯为您千千万万遍☯优选,North America,US,Seattle,48,13.09
+104.196.250.34,2087,443,true,🇺🇸美国西雅图_2-☯为您千千万万遍☯优选,North America,US,Seattle,199,9.28
+34.82.76.253,443,443,true,🇺🇸美国西雅图_3-☯为您千千万万遍☯优选,North America,US,Seattle,200,8.10
+35.212.243.225,8081,443,true,🇺🇸美国西雅图_4-☯为您千千万万遍☯优选,North America,US,Seattle,221,7.75
+18.237.84.18,22345,80,false,PDX_5-☯为您千千万万遍☯优选,North America,US,Portland,213,6.45
+118.44.15.9,10017,443,true,SJC_6-☯为您千千万万遍☯优选,North America,US,San Jose,255,4.98
+59.21.167.152,10036,80,false,SJC_7-☯为您千千万万遍☯优选,North America,US,San Jose,240,4.72
+220.84.158.10,30019,443,true,SJC_8-☯为您千千万万遍☯优选,North America,US,San Jose,221,4.45
+121.191.9.243,28080,443,true,SJC_9-☯为您千千万万遍☯优选,North America,US,San Jose,227,3.09
+112.160.26.115,14344,443,true,SJC_10-☯为您千千万万遍☯优选,North America,US,San Jose,240,2.84
