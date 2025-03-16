@@ -1,11 +1,11 @@
 ﻿IP地址,端口,回源端口,TLS,数据中心,地区,国家,城市,TCP延迟(ms),速度(MB/s)
-154.17.27.8,48655,443,true,🇺🇸美国洛杉矶_1-☯为您千千万万遍☯优选,North America,US,Los Angeles,141,15.86
-154.17.231.175,56666,443,true,🇺🇸美国洛杉矶_2-☯为您千千万万遍☯优选,North America,US,Los Angeles,143,11.98
-154.21.90.8,2443,443,true,🇺🇸美国洛杉矶_3-☯为您千千万万遍☯优选,North America,US,Los Angeles,141,10.88
-23.169.184.125,25526,443,true,🇺🇸美国洛杉矶_4-☯为您千千万万遍☯优选,North America,US,Los Angeles,139,10.68
-193.9.46.16,13333,443,true,🇺🇸美国洛杉矶_5-☯为您千千万万遍☯优选,North America,US,Los Angeles,164,10.68
-154.9.241.153,37160,443,true,🇺🇸美国洛杉矶_6-☯为您千千万万遍☯优选,North America,US,Los Angeles,162,10.45
-193.9.46.181,50080,443,true,🇺🇸美国洛杉矶_7-☯为您千千万万遍☯优选,North America,US,Los Angeles,172,10.27
-38.150.3.43,54222,443,true,🇺🇸美国洛杉矶_8-☯为您千千万万遍☯优选,North America,US,Los Angeles,167,10.23
-154.40.57.145,34237,2096,true,🇺🇸美国洛杉矶_9-☯为您千千万万遍☯优选,North America,US,Los Angeles,163,10.23
-23.159.248.195,8443,443,true,DEN_10-☯为您千千万万遍☯优选,North America,US,Denver,197,10.11
+154.23.207.135,21714,2082,false,🇺🇸美国洛杉矶_1-☯为您千千万万遍☯优选,North America,US,Los Angeles,197,0.00
+154.29.147.199,80,80,false,🇺🇸美国洛杉矶_2-☯为您千千万万遍☯优选,North America,US,Los Angeles,2,0.00
+112.173.154.114,21239,443,true,SJC_3-☯为您千千万万遍☯优选,North America,US,San Jose,235,0.00
+112.167.102.166,11007,443,true,🇺🇸美国洛杉矶_4-☯为您千千万万遍☯优选,North America,US,Los Angeles,239,0.00
+193.9.46.16,13333,443,true,🇺🇸美国洛杉矶_5-☯为您千千万万遍☯优选,North America,US,Los Angeles,165,0.00
+154.17.226.98,10000,443,true,🇺🇸美国洛杉矶_6-☯为您千千万万遍☯优选,North America,US,Los Angeles,141,0.00
+185.183.84.180,30025,443,true,🇺🇸美国洛杉矶_7-☯为您千千万万遍☯优选,North America,US,Los Angeles,179,0.00
+154.201.78.7,16351,443,true,🇺🇸美国洛杉矶_8-☯为您千千万万遍☯优选,North America,US,Los Angeles,170,0.00
+154.201.78.7,35578,443,true,🇺🇸美国洛杉矶_9-☯为您千千万万遍☯优选,North America,US,Los Angeles,171,0.00
+38.148.249.118,32956,443,true,🇺🇸美国洛杉矶_10-☯为您千千万万遍☯优选,North America,US,Los Angeles,166,0.00
